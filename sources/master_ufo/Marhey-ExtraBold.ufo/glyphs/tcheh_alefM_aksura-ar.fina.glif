@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcheh_alefMaksura-ar.fina" format="2">
+  <advance width="1000"/>
+  <anchor x="874" y="-332" name="bottom_1"/>
+  <anchor x="416" y="-377" name="bottom_2"/>
+  <anchor x="618" y="0" name="caret_1"/>
+  <anchor x="652" y="546" name="top_1"/>
+  <anchor x="201" y="400" name="top_2"/>
+  <outline>
+    <component base="hah_alefMaksura-ar.fina"/>
+    <component base="threedotsdownbelow-ar" xScale="0.8" yScale="0.8" xOffset="831.0" yOffset="-30.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>alefMaksura-ar.fina</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>tcheh-ar.medi</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alefMaksura-ar.fina" format="2">
+  <advance width="740"/>
+  <anchor x="439" y="-350" name="bottom"/>
+  <anchor x="339" y="176" name="top"/>
+  <outline>
+    <contour>
+      <point x="740" y="0" type="curve"/>
+      <point x="740" y="50" type="line"/>
+      <point x="637" y="50"/>
+      <point x="564" y="84"/>
+      <point x="421" y="74" type="curve"/>
+      <point x="441" y="13" type="line"/>
+      <point x="560" y="34"/>
+      <point x="686" y="0"/>
+    </contour>
+    <contour>
+      <point x="408" y="-310" type="curve" smooth="yes"/>
+      <point x="600" y="-310"/>
+      <point x="696" y="-176"/>
+      <point x="696" y="-65" type="curve" smooth="yes"/>
+      <point x="696" y="64"/>
+      <point x="553" y="57"/>
+      <point x="421" y="74" type="curve"/>
+      <point x="401" y="-31" type="line"/>
+      <point x="569" y="-10"/>
+      <point x="636" y="-45"/>
+      <point x="636" y="-96" type="curve" smooth="yes"/>
+      <point x="636" y="-161"/>
+      <point x="548" y="-230"/>
+      <point x="420" y="-230" type="curve" smooth="yes"/>
+      <point x="301" y="-230"/>
+      <point x="162" y="-151"/>
+      <point x="141" y="110" type="curve"/>
+      <point x="40" y="72" type="line"/>
+      <point x="62" y="-177"/>
+      <point x="225" y="-310"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>7</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Cap</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

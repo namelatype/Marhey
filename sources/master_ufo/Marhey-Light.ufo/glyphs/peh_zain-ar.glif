@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peh_zain-ar" format="2">
+  <advance width="600"/>
+  <anchor x="445" y="-321" name="bottom_1"/>
+  <anchor x="157" y="-401" name="bottom_2"/>
+  <anchor x="312" y="0" name="caret_1"/>
+  <anchor x="425" y="476" name="top_1"/>
+  <anchor x="136" y="400" name="top_2"/>
+  <outline>
+    <component base="behDotless_reh-ar"/>
+    <component base="threedotsdownbelow-ar" xOffset="395" yOffset="-13"/>
+    <component base="dotabove-ar" xOffset="82" yOffset="-594"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>reh-ar.fina</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>behDotless-ar.init</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

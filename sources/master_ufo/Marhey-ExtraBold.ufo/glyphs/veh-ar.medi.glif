@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="veh-ar.medi" format="2">
+  <advance width="560"/>
+  <anchor x="258" y="-60" name="bottom"/>
+  <anchor x="286" y="800" name="top"/>
+  <outline>
+    <component base="fehDotless-ar.medi"/>
+    <component base="threedotsupabove-ar" xOffset="240" yOffset="-81"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedotsupabove-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noonThreedotsabove-ar.medi" format="2">
+  <advance width="380"/>
+  <anchor x="155" y="-48" name="bottom"/>
+  <anchor x="187" y="750" name="top"/>
+  <outline>
+    <component base="theh-ar.medi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

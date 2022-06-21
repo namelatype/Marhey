@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qaf_zain-ar" format="2">
+  <advance width="760"/>
+  <anchor x="528" y="-21" name="bottom_1"/>
+  <anchor x="248" y="-300" name="bottom_2"/>
+  <anchor x="340" y="0" name="caret_1"/>
+  <anchor x="486" y="699" name="top_1"/>
+  <anchor x="126" y="400" name="top_2"/>
+  <outline>
+    <component base="fehDotless_reh-ar"/>
+    <component base="twodotshorizontalabove-ar" xOffset="448" yOffset="-177"/>
+    <component base="dotabove-ar" xOffset="72" yOffset="-535"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>dotabove-ar</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>feh-ar.init</string>
+    </dict>
+  </lib>
+</glyph>

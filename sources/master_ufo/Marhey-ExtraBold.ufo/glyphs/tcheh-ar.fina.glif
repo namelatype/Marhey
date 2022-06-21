@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcheh-ar.fina" format="2">
+  <advance width="630"/>
+  <anchor x="356.5" y="-79.75" name="_center"/>
+  <anchor x="287" y="-470" name="bottom"/>
+  <anchor x="282" y="580" name="top"/>
+  <outline>
+    <contour>
+      <point x="366" y="-196" type="curve"/>
+      <point x="425" y="-135" type="line"/>
+      <point x="398" y="-117"/>
+      <point x="378" y="-99"/>
+      <point x="357" y="-75" type="curve"/>
+      <point x="298" y="-138" type="line"/>
+      <point x="315" y="-160"/>
+      <point x="341" y="-180"/>
+    </contour>
+    <contour>
+      <point x="315" y="-98" type="curve"/>
+      <point x="381" y="-30" type="line"/>
+      <point x="350" y="-10"/>
+      <point x="327" y="10"/>
+      <point x="304" y="37" type="curve"/>
+      <point x="239" y="-33" type="line"/>
+      <point x="258" y="-57"/>
+      <point x="287" y="-80"/>
+    </contour>
+    <contour>
+      <point x="408" y="-98" type="curve"/>
+      <point x="474" y="-30" type="line"/>
+      <point x="444" y="-10"/>
+      <point x="421" y="10"/>
+      <point x="398" y="37" type="curve"/>
+      <point x="333" y="-33" type="line"/>
+      <point x="352" y="-57"/>
+      <point x="381" y="-80"/>
+    </contour>
+    <component base="hah-ar.fina"/>
+  </outline>
+</glyph>

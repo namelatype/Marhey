@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qaf-ar.medi" format="2">
+  <advance width="560"/>
+  <anchor x="242" y="-60" name="bottom"/>
+  <anchor x="269" y="673" name="top"/>
+  <outline>
+    <component base="fehDotless-ar.medi"/>
+    <component base="twodotshorizontalabove-ar" xOffset="229" yOffset="-190"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>twodotshorizontalabove-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

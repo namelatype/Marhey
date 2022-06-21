@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="anglebracketright" format="2">
+  <advance width="342"/>
+  <unicode hex="3009"/>
+  <outline>
+    <component base="anglebracketleft" xScale="-1.0" yScale="-1.0" xOffset="342" yOffset="650"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>anglebracketleft</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alefHamzabelow-ar.fina" format="2">
+  <advance width="326"/>
+  <anchor x="172" y="-230" name="bottom"/>
+  <anchor x="168" y="770" name="top"/>
+  <outline>
+    <component base="alef-ar.fina"/>
+    <component base="hamzabelow-ar" xOffset="151" yOffset="-10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>hamzabelow-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

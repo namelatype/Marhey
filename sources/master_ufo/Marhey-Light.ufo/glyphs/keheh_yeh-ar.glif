@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="keheh_yeh-ar" format="2">
+  <advance width="860"/>
+  <anchor x="761" y="-300" name="bottom_1"/>
+  <anchor x="431" y="-541" name="bottom_2"/>
+  <anchor x="510" y="0" name="caret_1"/>
+  <anchor x="576" y="750" name="top_1"/>
+  <anchor x="250" y="400" name="top_2"/>
+  <outline>
+    <component base="kaf_alefMaksura-ar"/>
+    <component base="twodotshorizontalbelow-ar" xOffset="370" yOffset="-337"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>yeh-ar.fina</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>keheh-ar.init</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

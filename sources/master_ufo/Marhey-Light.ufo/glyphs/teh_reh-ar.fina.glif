@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="teh_reh-ar.fina" format="2">
+  <advance width="591"/>
+  <anchor x="460" y="-86" name="bottom_1"/>
+  <anchor x="218" y="-300" name="bottom_2"/>
+  <anchor x="374" y="0" name="caret_1"/>
+  <anchor x="409" y="650" name="top_1"/>
+  <anchor x="117" y="400" name="top_2"/>
+  <outline>
+    <component base="behDotless_reh-ar.fina"/>
+    <component base="twodotshorizontalabove-ar" xOffset="342" yOffset="-250"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

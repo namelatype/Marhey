@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ain_zain-ar" format="2">
+  <advance width="720"/>
+  <anchor x="538" y="-24" name="bottom_1"/>
+  <anchor x="302" y="-300" name="bottom_2"/>
+  <anchor x="371" y="0" name="caret_1"/>
+  <anchor x="479" y="524" name="top_1"/>
+  <anchor x="126" y="400" name="top_2"/>
+  <outline>
+    <component base="ain_reh-ar"/>
+    <component base="dotabove-ar" xOffset="62" yOffset="-527"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ain-ar.init</string>
+    </dict>
+  </lib>
+</glyph>

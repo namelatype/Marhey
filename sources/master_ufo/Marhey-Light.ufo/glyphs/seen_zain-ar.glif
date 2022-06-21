@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seen_zain-ar" format="2">
+  <advance width="1119"/>
+  <anchor x="728" y="-72" name="bottom_1"/>
+  <anchor x="256" y="-283" name="bottom_2"/>
+  <anchor x="461" y="0" name="caret_1"/>
+  <anchor x="700" y="524" name="top_1"/>
+  <anchor x="133" y="582" name="top_2"/>
+  <outline>
+    <component base="seen_reh-ar"/>
+    <component base="dotabove-ar" xOffset="105" yOffset="-332"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>zain-ar.fina</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>seen-ar.init</string>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

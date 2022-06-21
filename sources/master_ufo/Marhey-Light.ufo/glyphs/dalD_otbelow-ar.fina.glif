@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dalDotbelow-ar.fina" format="2">
+  <advance width="440"/>
+  <anchor x="263" y="-200" name="bottom"/>
+  <anchor x="259" y="547" name="top"/>
+  <outline>
+    <component base="dal-ar.fina"/>
+    <component base="dotbelow-ar" xOffset="206"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dotbelow-ar</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

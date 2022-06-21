@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qaf_alefMaksura-ar" format="2">
+  <advance width="970"/>
+  <anchor x="791" y="-250" name="bottom_1"/>
+  <anchor x="439" y="-387" name="bottom_2"/>
+  <anchor x="375" y="0" name="caret_1"/>
+  <anchor x="698" y="680" name="top_1"/>
+  <anchor x="201" y="400" name="top_2"/>
+  <outline>
+    <component base="fehDotless_alefMaksura-ar"/>
+    <component base="twodotshorizontalabove-ar" xOffset="664" yOffset="-188"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>qaf-ar.init</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

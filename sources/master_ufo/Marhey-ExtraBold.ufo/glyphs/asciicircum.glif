@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asciicircum" format="2">
+  <advance width="575"/>
+  <unicode hex="005E"/>
+  <outline>
+    <component base="greater" xScale="0.0" xyScale="0.9" yxScale="-0.9" yScale="0.0" xOffset="591.0" yOffset="338.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>200</integer>
+        <key>weight</key>
+        <integer>400</integer>
+        <key>width</key>
+        <integer>200</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>greater</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

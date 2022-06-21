@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="beh_noon-ar.fina" format="2">
+  <advance width="960"/>
+  <anchor x="795" y="-241" name="bottom_1"/>
+  <anchor x="364" y="-319" name="bottom_2"/>
+  <anchor x="597" y="0" name="caret_1"/>
+  <anchor x="745" y="546" name="top_1"/>
+  <anchor x="360" y="516" name="top_2"/>
+  <anchor x="360" y="255" name="_top"/>
+  <outline>
+    <component base="alefMaksura_noon-ar.fina"/>
+    <component base="dotbelow-ar" xOffset="708" yOffset="-22"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

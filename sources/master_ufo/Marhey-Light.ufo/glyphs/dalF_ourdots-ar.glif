@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dalFourdots-ar" format="2">
+  <advance width="380"/>
+  <unicode hex="0690"/>
+  <anchor x="207" y="-47" name="bottom"/>
+  <anchor x="207" y="744" name="top"/>
+  <outline>
+    <component base="dal-ar"/>
+    <component base="twodotshorizontalabove-ar" xOffset="153" yOffset="-97"/>
+    <component base="twodotshorizontalabove-ar" xOffset="161" yOffset="-204"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>twodotshorizontalabove-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>twodotshorizontalabove-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

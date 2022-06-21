@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sheen_reh-ar.fina" format="2">
+  <advance width="1169"/>
+  <anchor x="727" y="-78" name="bottom_1"/>
+  <anchor x="225" y="-300" name="bottom_2"/>
+  <anchor x="438" y="0" name="caret_1"/>
+  <anchor x="693" y="696" name="top_1"/>
+  <anchor x="203" y="400" name="top_2"/>
+  <outline>
+    <component base="seen_reh-ar.fina"/>
+    <component base="threedotsupabove-ar" xOffset="650" yOffset="-161"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>reh-ar.fina</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>sheen-ar.medi</string>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

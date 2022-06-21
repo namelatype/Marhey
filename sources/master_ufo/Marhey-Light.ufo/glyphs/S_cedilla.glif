@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Scedilla" format="2">
+  <advance width="651"/>
+  <unicode hex="015E"/>
+  <anchor x="333" y="-41" name="bottom"/>
+  <anchor x="343" y="19" name="cedilla"/>
+  <anchor x="347" y="800" name="top"/>
+  <outline>
+    <component base="S"/>
+    <component base="cedillacomb" xOffset="178" yOffset="7"/>
+  </outline>
+</glyph>

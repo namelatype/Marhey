@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yeh_alefMaksura-ar.fina" format="2">
+  <advance width="950"/>
+  <anchor x="855" y="-338" name="bottom_1"/>
+  <anchor x="410" y="-387" name="bottom_2"/>
+  <anchor x="654" y="0" name="caret_1"/>
+  <anchor x="758" y="482" name="top_1"/>
+  <anchor x="200" y="400" name="top_2"/>
+  <outline>
+    <component base="behDotless_alefMaksura-ar.fina"/>
+    <component base="twodotsverticalbelow-ar" xOffset="777" yOffset="-26"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>yeh-ar.medi</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dad-ar.init" format="2">
+  <advance width="820"/>
+  <anchor x="468" y="-60" name="bottom"/>
+  <anchor x="565" y="686" name="top"/>
+  <outline>
+    <component base="sad-ar.init"/>
+    <component base="dotabove-ar" xOffset="518" yOffset="-204"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dotabove-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordmasculine" format="2">
+  <advance width="443"/>
+  <unicode hex="00BA"/>
+  <anchor x="218.25" y="383.5" name="bottom"/>
+  <anchor x="200.25" y="805.0" name="top"/>
+  <outline>
+    <component base="o" xScale="0.75" yScale="0.75" yOffset="415.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>o</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

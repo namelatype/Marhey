@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tteh_reh-ar" format="2">
+  <advance width="600"/>
+  <anchor x="460" y="-82" name="bottom_1"/>
+  <anchor x="201" y="-366" name="bottom_2"/>
+  <anchor x="338" y="0" name="caret_1"/>
+  <anchor x="455" y="716" name="top_1"/>
+  <anchor x="128" y="400" name="top_2"/>
+  <outline>
+    <component base="behDotless_reh-ar"/>
+    <component base="tahabove-ar" xOffset="420" yOffset="-158"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>reh-ar.fina</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>behDotless-ar.init</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

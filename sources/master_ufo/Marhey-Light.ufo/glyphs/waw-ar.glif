@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="waw-ar" format="2">
+  <advance width="520"/>
+  <unicode hex="0648"/>
+  <anchor x="244" y="-390" name="bottom"/>
+  <anchor x="272" y="550" name="top"/>
+  <outline>
+    <contour>
+      <point x="174" y="-360" type="line"/>
+      <point x="311" y="-259"/>
+      <point x="460" y="-102"/>
+      <point x="460" y="119" type="curve" smooth="yes"/>
+      <point x="460" y="296"/>
+      <point x="370" y="399"/>
+      <point x="260" y="399" type="curve" smooth="yes"/>
+      <point x="141" y="399"/>
+      <point x="60" y="314"/>
+      <point x="60" y="205" type="curve" smooth="yes"/>
+      <point x="60" y="84"/>
+      <point x="174" y="-7"/>
+      <point x="392" y="-7" type="curve"/>
+      <point x="405" y="50" type="line"/>
+      <point x="220" y="50"/>
+      <point x="140" y="121"/>
+      <point x="140" y="199" type="curve" smooth="yes"/>
+      <point x="140" y="260"/>
+      <point x="188" y="296"/>
+      <point x="240" y="296" type="curve" smooth="yes"/>
+      <point x="319" y="296"/>
+      <point x="405" y="231"/>
+      <point x="405" y="103" type="curve" smooth="yes"/>
+      <point x="405" y="-42"/>
+      <point x="265" y="-177"/>
+      <point x="95" y="-277" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

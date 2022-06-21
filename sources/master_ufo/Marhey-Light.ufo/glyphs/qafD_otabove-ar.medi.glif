@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qafDotabove-ar.medi" format="2">
+  <advance width="560"/>
+  <anchor x="242" y="-49" name="bottom"/>
+  <anchor x="281" y="670" name="top"/>
+  <outline>
+    <component base="feh-ar.medi"/>
+  </outline>
+</glyph>

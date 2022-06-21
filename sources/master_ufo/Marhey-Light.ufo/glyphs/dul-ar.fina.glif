@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dul-ar.fina" format="2">
+  <advance width="440"/>
+  <anchor x="246" y="-53" name="bottom"/>
+  <anchor x="257" y="750" name="top"/>
+  <outline>
+    <component base="dal-ar.fina"/>
+    <component base="threedotsupabove-ar" xOffset="209" yOffset="-81"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedotsupabove-ar</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

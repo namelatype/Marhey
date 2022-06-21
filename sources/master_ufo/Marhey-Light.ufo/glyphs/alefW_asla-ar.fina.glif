@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alefWasla-ar.fina" format="2">
+  <advance width="293"/>
+  <anchor x="161" y="-40" name="bottom"/>
+  <anchor x="162" y="883" name="top"/>
+  <outline>
+    <component base="alef-ar.fina.salt"/>
+    <component base="wasla-ar" xOffset="73" yOffset="40"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>wasla-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

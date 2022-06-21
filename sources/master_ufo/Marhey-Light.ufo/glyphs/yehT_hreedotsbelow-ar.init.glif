@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yehThreedotsbelow-ar.init" format="2">
+  <advance width="310"/>
+  <anchor x="171" y="-360" name="bottom"/>
+  <anchor x="179" y="550" name="top"/>
+  <outline>
+    <component base="peh-ar.init"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

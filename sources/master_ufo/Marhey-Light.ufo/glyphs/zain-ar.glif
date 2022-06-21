@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zain-ar" format="2">
+  <advance width="300"/>
+  <unicode hex="0632"/>
+  <anchor x="133" y="-370" name="bottom"/>
+  <anchor x="141" y="617" name="top"/>
+  <outline>
+    <component base="reh-ar"/>
+    <component base="dotabove-ar" xOffset="98" yOffset="-254"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dotabove-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

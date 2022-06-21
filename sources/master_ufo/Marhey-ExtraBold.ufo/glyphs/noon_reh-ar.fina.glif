@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noon_reh-ar.fina" format="2">
+  <advance width="627"/>
+  <anchor x="470" y="-60" name="bottom_1"/>
+  <anchor x="302" y="-349" name="bottom_2"/>
+  <anchor x="334" y="0" name="caret_1"/>
+  <anchor x="408" y="650" name="top_1"/>
+  <anchor x="119" y="400" name="top_2"/>
+  <outline>
+    <component base="behDotless_reh-ar.fina"/>
+    <component base="dotabove-ar" xOffset="376" yOffset="-254"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

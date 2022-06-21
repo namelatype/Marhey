@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dad_reh-ar" format="2">
+  <advance width="1040"/>
+  <anchor x="669" y="-73" name="bottom_1"/>
+  <anchor x="313" y="-300" name="bottom_2"/>
+  <anchor x="451" y="0" name="caret_1"/>
+  <anchor x="687" y="660" name="top_1"/>
+  <anchor x="302" y="427" name="top_2"/>
+  <outline>
+    <component base="sad_reh-ar"/>
+    <component base="dotabove-ar" xOffset="698" yOffset="-214"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>reh-ar.fina</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>dad-ar.init</string>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcheh_yehHamzaabove-ar" format="2">
+  <advance width="1000"/>
+  <anchor x="879" y="-251" name="bottom_1"/>
+  <anchor x="416" y="-377" name="bottom_2"/>
+  <anchor x="618" y="0" name="caret_1"/>
+  <anchor x="683" y="548" name="top_1"/>
+  <anchor x="213" y="450" name="top_2"/>
+  <outline>
+    <component base="hah_alefMaksura-ar"/>
+    <component base="threedotsdownbelow-ar" xScale="0.8" yScale="0.8" xOffset="826.0" yOffset="61.0"/>
+    <component base="hamzaabove-ar" xOffset="130" yOffset="-456"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>yehHamzaabove-ar.fina</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>tcheh-ar.init</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threedotsdowncenter-ar" format="2">
+  <anchor x="50" y="193" name="_center"/>
+  <outline>
+    <contour>
+      <point x="63" y="32" type="curve"/>
+      <point x="141" y="113" type="line"/>
+      <point x="105" y="137"/>
+      <point x="78" y="161"/>
+      <point x="50" y="193" type="curve"/>
+      <point x="-28" y="109" type="line"/>
+      <point x="-5" y="80"/>
+      <point x="29" y="54"/>
+    </contour>
+    <contour>
+      <point x="-6" y="163" type="curve"/>
+      <point x="82" y="253" type="line"/>
+      <point x="41" y="280"/>
+      <point x="11" y="307"/>
+      <point x="-20" y="342" type="curve"/>
+      <point x="-107" y="249" type="line"/>
+      <point x="-81" y="217"/>
+      <point x="-43" y="187"/>
+    </contour>
+    <contour>
+      <point x="119" y="163" type="curve"/>
+      <point x="207" y="253" type="line"/>
+      <point x="166" y="280"/>
+      <point x="136" y="307"/>
+      <point x="105" y="342" type="curve"/>
+      <point x="18" y="249" type="line"/>
+      <point x="44" y="217"/>
+      <point x="82" y="187"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>100</integer>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

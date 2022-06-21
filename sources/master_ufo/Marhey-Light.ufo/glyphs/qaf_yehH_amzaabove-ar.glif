@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qaf_yehHamzaabove-ar" format="2">
+  <advance width="940"/>
+  <anchor x="791" y="-253" name="bottom_1"/>
+  <anchor x="431" y="-383" name="bottom_2"/>
+  <anchor x="589" y="0" name="caret_1"/>
+  <anchor x="677" y="699" name="top_1"/>
+  <anchor x="213" y="450" name="top_2"/>
+  <outline>
+    <component base="fehDotless_alefMaksura-ar"/>
+    <component base="twodotshorizontalabove-ar" xOffset="634" yOffset="-188"/>
+    <component base="hamzaabove-ar" xOffset="104" yOffset="-466"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>hamzaabove-ar</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>yehHamzaabove-ar.fina</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>qaf-ar.init</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

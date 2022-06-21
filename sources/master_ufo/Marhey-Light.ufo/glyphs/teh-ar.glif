@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="teh-ar" format="2">
+  <advance width="840"/>
+  <unicode hex="062A"/>
+  <anchor x="415" y="-70" name="bottom"/>
+  <anchor x="415" y="568" name="top"/>
+  <outline>
+    <component base="behDotless-ar"/>
+    <component base="twodotshorizontalabove-ar" xOffset="375" yOffset="-340"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>twodotshorizontalabove-ar</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

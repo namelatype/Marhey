@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sheen_zain-ar" format="2">
+  <advance width="1220"/>
+  <anchor x="727" y="-78" name="bottom_1"/>
+  <anchor x="329" y="-300" name="bottom_2"/>
+  <anchor x="438" y="0" name="caret_1"/>
+  <anchor x="725" y="770" name="top_1"/>
+  <anchor x="157" y="606" name="top_2"/>
+  <outline>
+    <component base="seen_reh-ar"/>
+    <component base="threedotsupabove-ar" xOffset="683" yOffset="-161"/>
+    <component base="dotabove-ar" xOffset="125" yOffset="-313"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>dotabove-ar</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>zain-ar.fina</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>sheen-ar.init</string>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sheenThreedotsbelow_yehFarsi-ar.fina" format="2">
+  <advance width="1549"/>
+  <anchor x="1198" y="-350" name="bottom_1"/>
+  <anchor x="410" y="-387" name="bottom_2"/>
+  <anchor x="645" y="0" name="caret_1"/>
+  <anchor x="1071" y="750" name="top_1"/>
+  <anchor x="247" y="400" name="top_2"/>
+  <anchor x="1172" y="-30" name="bottomdiacritic"/>
+  <outline>
+    <component base="sheen_yehFarsi-ar.fina"/>
+    <component base="threedotsdownbelow-ar" xOffset="1121" yOffset="-30"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>yehFarsi-ar.fina</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>sheenThreedotsbelow-ar.medi</string>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

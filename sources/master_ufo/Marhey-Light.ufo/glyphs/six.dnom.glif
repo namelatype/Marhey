@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="six.dnom" format="2">
+  <advance width="438"/>
+  <outline>
+    <component base="six" xScale="0.65" yScale="0.65"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>40</integer>
+        <key>weight</key>
+        <integer>-550</integer>
+        <key>width</key>
+        <integer>40</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

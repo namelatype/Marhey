@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gaf_yeh-ar.fina" format="2">
+  <advance width="900"/>
+  <anchor x="760" y="-300" name="bottom_1"/>
+  <anchor x="441" y="-561" name="bottom_2"/>
+  <anchor x="535" y="0" name="caret_1"/>
+  <anchor x="543" y="800" name="top_1"/>
+  <anchor x="164" y="400" name="top_2"/>
+  <anchor x="440" y="-360" name="bottomdiacritic02"/>
+  <anchor x="208" y="155" name="topdiacritic02"/>
+  <outline>
+    <component base="gaf_alefMaksura-ar.fina"/>
+    <component base="twodotshorizontalbelow-ar" xOffset="368" yOffset="-340"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>gaf_alefMaksura-ar.fina</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>yeh-ar.fina</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>gaf-ar.medi</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

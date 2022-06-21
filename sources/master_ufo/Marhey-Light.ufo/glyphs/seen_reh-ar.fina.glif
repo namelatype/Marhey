@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seen_reh-ar.fina" format="2">
+  <advance width="1169"/>
+  <anchor x="693" y="-100" name="bottom_1"/>
+  <anchor x="260" y="-300" name="bottom_2"/>
+  <anchor x="339" y="-9" name="caret_1"/>
+  <anchor x="693" y="528" name="top_1"/>
+  <anchor x="215" y="450" name="top_2"/>
+  <outline>
+    <contour>
+      <point x="1" y="-420" type="line"/>
+      <point x="184" y="-237"/>
+      <point x="197" y="-36"/>
+      <point x="205" y="78" type="curve" smooth="yes"/>
+      <point x="215" y="222"/>
+      <point x="267" y="285"/>
+      <point x="320" y="285" type="curve"/>
+      <point x="424" y="285"/>
+      <point x="339" y="-9"/>
+      <point x="590" y="-9" type="curve"/>
+      <point x="618" y="24" type="line"/>
+      <point x="591" y="50" type="line"/>
+      <point x="419" y="50"/>
+      <point x="537" y="354"/>
+      <point x="353" y="354" type="curve" smooth="yes"/>
+      <point x="282" y="354"/>
+      <point x="157" y="317"/>
+      <point x="127" y="58" type="curve" smooth="yes"/>
+      <point x="112" y="-71"/>
+      <point x="70" y="-202"/>
+      <point x="-80" y="-340" type="curve"/>
+    </contour>
+    <contour>
+      <point x="590" y="-9" type="line"/>
+      <point x="693" y="-9"/>
+      <point x="774" y="55"/>
+      <point x="774" y="238" type="curve" smooth="yes"/>
+      <point x="774" y="285"/>
+      <point x="774" y="302"/>
+      <point x="774" y="328" type="curve"/>
+      <point x="661" y="312" type="line"/>
+      <point x="673" y="258"/>
+      <point x="680" y="225"/>
+      <point x="680" y="174" type="curve" smooth="yes"/>
+      <point x="680" y="103"/>
+      <point x="660" y="50"/>
+      <point x="591" y="50" type="curve"/>
+    </contour>
+    <contour>
+      <point x="882" y="-11" type="curve" smooth="yes"/>
+      <point x="1021" y="-11"/>
+      <point x="1059" y="88"/>
+      <point x="1059" y="211" type="curve" smooth="yes"/>
+      <point x="1059" y="284"/>
+      <point x="1051" y="343"/>
+      <point x="1040" y="392" type="curve"/>
+      <point x="930" y="368" type="line"/>
+      <point x="950" y="309"/>
+      <point x="965" y="249"/>
+      <point x="965" y="173" type="curve" smooth="yes"/>
+      <point x="965" y="103"/>
+      <point x="945" y="50"/>
+      <point x="882" y="50" type="curve" smooth="yes"/>
+      <point x="796" y="50"/>
+      <point x="774" y="147"/>
+      <point x="774" y="238" type="curve"/>
+      <point x="738" y="132" type="line"/>
+      <point x="738" y="65"/>
+      <point x="796" y="-11"/>
+    </contour>
+    <contour>
+      <point x="1169" y="0" type="curve"/>
+      <point x="1169" y="50" type="line"/>
+      <point x="1106" y="50"/>
+      <point x="1059" y="110"/>
+      <point x="1059" y="211" type="curve"/>
+      <point x="994" y="202" type="line"/>
+      <point x="994" y="50"/>
+      <point x="1087" y="0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>reh-ar.fina</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>seen-ar.medi</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>3</integer>
+            <integer>7</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Cap</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

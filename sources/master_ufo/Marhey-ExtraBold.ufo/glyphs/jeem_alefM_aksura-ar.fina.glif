@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jeem_alefMaksura-ar.fina" format="2">
+  <advance width="1000"/>
+  <anchor x="874" y="-254" name="bottom_1"/>
+  <anchor x="416" y="-377" name="bottom_2"/>
+  <anchor x="618" y="0" name="caret_1"/>
+  <anchor x="652" y="546" name="top_1"/>
+  <anchor x="201" y="400" name="top_2"/>
+  <outline>
+    <component base="hah_alefMaksura-ar.fina"/>
+    <component base="dotbelow-ar" xOffset="822" yOffset="-30"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>jeem-ar.medi</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

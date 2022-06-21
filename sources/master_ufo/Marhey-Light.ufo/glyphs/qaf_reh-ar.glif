@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qaf_reh-ar" format="2">
+  <advance width="760"/>
+  <anchor x="489" y="-29" name="bottom_1"/>
+  <anchor x="273" y="-372" name="bottom_2"/>
+  <anchor x="327" y="0" name="caret_1"/>
+  <anchor x="486" y="699" name="top_1"/>
+  <anchor x="128" y="400" name="top_2"/>
+  <outline>
+    <component base="fehDotless_reh-ar"/>
+    <component base="twodotshorizontalabove-ar" xOffset="448" yOffset="-177"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>feh-ar.init</string>
+    </dict>
+  </lib>
+</glyph>

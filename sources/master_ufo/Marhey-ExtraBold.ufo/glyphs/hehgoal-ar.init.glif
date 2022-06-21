@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hehgoal-ar.init" format="2">
+  <advance width="350"/>
+  <anchor x="159" y="-353" name="bottom"/>
+  <anchor x="143" y="550" name="top"/>
+  <outline>
+    <contour>
+      <point x="271" y="-289" type="curve"/>
+      <point x="228" y="-131" type="line"/>
+      <point x="150" y="-157"/>
+      <point x="117" y="-130"/>
+      <point x="138" y="-52" type="curve"/>
+      <point x="74" y="-26" type="line"/>
+      <point x="-6" y="-264"/>
+      <point x="78" y="-366"/>
+    </contour>
+    <component base="behDotless-ar.init"/>
+  </outline>
+</glyph>

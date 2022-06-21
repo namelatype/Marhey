@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ghain_zain-ar" format="2">
+  <advance width="720"/>
+  <anchor x="588" y="-34" name="bottom_1"/>
+  <anchor x="310" y="-300" name="bottom_2"/>
+  <anchor x="371" y="0" name="caret_1"/>
+  <anchor x="479" y="732" name="top_1"/>
+  <anchor x="118" y="400" name="top_2"/>
+  <outline>
+    <component base="ain_reh-ar"/>
+    <component base="dotabove-ar" xOffset="394" yOffset="-204"/>
+    <component base="dotabove-ar" xOffset="72" yOffset="-535"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>dotabove-ar</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>reh-ar.fina</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ain-ar.init</string>
+    </dict>
+  </lib>
+</glyph>
