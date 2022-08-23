@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni069C064A" format="2">
+	<advance width="1521"/>
+	<anchor x="1148" y="-346" name="bottom_1"/>
+	<anchor x="419" y="-546" name="bottom_2"/>
+	<anchor x="645" y="0" name="caret_1"/>
+	<anchor x="1074" y="753" name="top_1"/>
+	<anchor x="244" y="400" name="top_2"/>
+	<outline>
+		<component base="uni0634064A"/>
+		<component base="threedotsdownbelow-ar" xOffset="1078" yOffset="-25"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>threedotsdownbelow-ar</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>yeh-ar.fina</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>sheenThreedotsbelow-ar.init</string>
+			<key>public.markColor</key>
+			<string>0.25,0.25,0.25,1</string>
+		</dict>
+	</lib>
+</glyph>

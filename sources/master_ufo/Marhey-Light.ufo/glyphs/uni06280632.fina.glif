@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06280632.fina" format="2">
+	<advance width="640"/>
+	<anchor x="481" y="-230" name="bottom_1"/>
+	<anchor x="137" y="-450" name="bottom_2"/>
+	<anchor x="293" y="0" name="caret_1"/>
+	<anchor x="482" y="600" name="top_1"/>
+	<anchor x="174" y="486" name="top_2"/>
+	<outline>
+		<component base="uni06280631.fina"/>
+		<component base="dotabove-ar" xOffset="135" yOffset="-372"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

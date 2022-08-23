@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni066D" format="2">
+	<advance width="695"/>
+	<unicode hex="066D"/>
+	<outline>
+		<component base="uni066D.salt"/>
+		<component base="uni066D.salt" xScale="-0.5" xyScale="-0.866" yScale="-0.5" yxScale="0.866" xOffset="295" yOffset="693"/>
+		<component base="uni066D.salt" xScale="-0.5" xyScale="0.866" yScale="-0.5" yxScale="-0.866" xOffset="748" yOffset="92"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>uni066D.salt</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>uni066D.salt</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>uni066D.salt</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

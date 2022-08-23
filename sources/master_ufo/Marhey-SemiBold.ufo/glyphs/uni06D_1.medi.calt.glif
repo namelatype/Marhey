@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06D1.medi.calt" format="2">
+	<advance width="365"/>
+	<anchor x="189" y="-360" name="bottom"/>
+	<anchor x="189" y="400" name="top"/>
+	<outline>
+		<component base="uni067E.medi.calt"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>uni067E.medi.calt</string>
+				</dict>
+			</array>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

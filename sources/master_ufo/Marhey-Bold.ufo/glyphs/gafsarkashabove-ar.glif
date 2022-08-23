@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gafsarkashabove-ar" format="2">
+	<advance width="0"/>
+	<anchor x="51" y="546" name="_top"/>
+	<outline>
+		<contour>
+			<point x="-111" y="466" type="curve"/>
+			<point x="-44" y="369" type="line"/>
+			<point x="82" y="513"/>
+			<point x="166" y="673"/>
+			<point x="213" y="785" type="curve"/>
+			<point x="162" y="819" type="line"/>
+			<point x="105" y="717"/>
+			<point x="0" y="578"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.98,0.36,0.67,1</string>
+		</dict>
+	</lib>
+</glyph>

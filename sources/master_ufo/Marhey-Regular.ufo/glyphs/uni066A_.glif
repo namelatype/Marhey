@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni066A" format="2">
+	<advance width="713"/>
+	<unicode hex="066A"/>
+	<outline>
+		<contour>
+			<point x="204" y="-68" type="line"/>
+			<point x="623" y="761" type="line"/>
+			<point x="515" y="789" type="line"/>
+			<point x="115" y="-39" type="line"/>
+		</contour>
+		<component base="uni0660" xOffset="306" yOffset="-150"/>
+		<component base="uni0660" yOffset="260"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>uni0660</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>uni0660</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

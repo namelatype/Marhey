@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06BD06CC.fina" format="2">
+	<advance width="1020"/>
+	<anchor x="863" y="-100" name="bottom_1"/>
+	<anchor x="400" y="-360" name="bottom_2"/>
+	<anchor x="690" y="0" name="caret_1"/>
+	<anchor x="726" y="727" name="top_1"/>
+	<anchor x="203" y="400" name="top_2"/>
+	<outline>
+		<component base="uni062B0649.fina"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>yehFarsi-ar.fina</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>noonThreedotsabove-ar.medi</string>
+		</dict>
+	</lib>
+</glyph>

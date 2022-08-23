@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni062E064A.fina" format="2">
+	<advance width="935"/>
+	<anchor x="767" y="-219" name="bottom_1"/>
+	<anchor x="399" y="-551" name="bottom_2"/>
+	<anchor x="445" y="0" name="caret_1"/>
+	<anchor x="603" y="681" name="top_1"/>
+	<anchor x="192" y="400" name="top_2"/>
+	<outline>
+		<component base="uni062E0649.fina"/>
+		<component base="twodotshorizontalbelow-ar" xOffset="344" yOffset="-345"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>twodotshorizontalbelow-ar</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>yeh-ar.fina</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>khah-ar.medi</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

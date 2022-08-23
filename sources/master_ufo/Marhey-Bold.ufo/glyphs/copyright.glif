@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="copyright" format="2">
+	<advance width="1006.5"/>
+	<unicode hex="00A9"/>
+	<anchor x="529" y="28" name="bottom"/>
+	<anchor x="546" y="54" name="cedilla"/>
+	<anchor x="551" y="710" name="top"/>
+	<outline>
+		<contour>
+			<point x="513" y="-129" type="curve" smooth="yes"/>
+			<point x="749" y="-129"/>
+			<point x="967" y="66"/>
+			<point x="967" y="372" type="curve" smooth="yes"/>
+			<point x="967" y="640"/>
+			<point x="758" y="801"/>
+			<point x="493" y="801" type="curve" smooth="yes"/>
+			<point x="229" y="801"/>
+			<point x="41" y="630"/>
+			<point x="41" y="362" type="curve" smooth="yes"/>
+			<point x="41" y="62"/>
+			<point x="278" y="-129"/>
+		</contour>
+		<contour>
+			<point x="512" y="-35" type="curve"/>
+			<point x="283" y="-35"/>
+			<point x="131" y="114"/>
+			<point x="131" y="357" type="curve" smooth="yes"/>
+			<point x="131" y="572"/>
+			<point x="274" y="714"/>
+			<point x="488" y="714" type="curve" smooth="yes"/>
+			<point x="703" y="714"/>
+			<point x="879" y="587"/>
+			<point x="879" y="374" type="curve" smooth="yes"/>
+			<point x="879" y="121"/>
+			<point x="741" y="-35"/>
+		</contour>
+		<contour>
+			<point x="510" y="38" type="curve" smooth="yes"/>
+			<point x="568" y="38"/>
+			<point x="628" y="52"/>
+			<point x="684" y="82" type="curve"/>
+			<point x="684" y="154" type="line"/>
+			<point x="641" y="134"/>
+			<point x="595" y="124"/>
+			<point x="546" y="124" type="curve" smooth="yes"/>
+			<point x="460" y="124"/>
+			<point x="375" y="170"/>
+			<point x="375" y="318" type="curve" smooth="yes"/>
+			<point x="375" y="424"/>
+			<point x="452" y="507"/>
+			<point x="562" y="507" type="curve" smooth="yes"/>
+			<point x="603" y="507"/>
+			<point x="647" y="500"/>
+			<point x="689" y="484" type="curve"/>
+			<point x="705" y="600" type="line"/>
+			<point x="661" y="625"/>
+			<point x="599" y="638"/>
+			<point x="536" y="638" type="curve" smooth="yes"/>
+			<point x="376" y="638"/>
+			<point x="195" y="550"/>
+			<point x="195" y="325" type="curve" smooth="yes"/>
+			<point x="195" y="150"/>
+			<point x="345" y="38"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>RMXScaler</key>
+			<dict>
+				<key>height</key>
+				<integer>50</integer>
+				<key>weight</key>
+				<integer>-450</integer>
+				<key>width</key>
+				<integer>50</integer>
+			</dict>
+			<key>com.schriftgestaltung.glyph.userData</key>
+			<dict>
+				<key>RMXScaler</key>
+				<dict>
+					<key>source</key>
+					<string>C</string>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

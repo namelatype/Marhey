@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0698.fina" format="2">
+	<advance width="363"/>
+	<anchor x="142" y="-525" name="bottom"/>
+	<anchor x="181" y="468" name="top"/>
+	<outline>
+		<component base="uni0631.fina"/>
+		<component base="threedotsupabove-ar" xOffset="137" yOffset="-425"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>threedotsupabove-ar</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

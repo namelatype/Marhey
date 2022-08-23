@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="F" format="2">
+	<advance width="611"/>
+	<unicode hex="0046"/>
+	<outline>
+		<contour>
+			<point x="78" y="5" type="curve"/>
+			<point x="252" y="34" type="line"/>
+			<point x="287" y="320"/>
+			<point x="298" y="446"/>
+			<point x="295" y="721" type="curve"/>
+			<point x="59" y="736" type="line"/>
+			<point x="89" y="464"/>
+			<point x="90" y="294"/>
+		</contour>
+		<contour>
+			<point x="472" y="297" type="curve"/>
+			<point x="473" y="419" type="line"/>
+			<point x="397" y="407"/>
+			<point x="303" y="408"/>
+			<point x="187" y="414" type="curve"/>
+			<point x="186" y="315" type="line"/>
+			<point x="295" y="307"/>
+			<point x="389" y="301"/>
+		</contour>
+		<contour>
+			<point x="565" y="609" type="curve"/>
+			<point x="580" y="770" type="line"/>
+			<point x="469" y="767"/>
+			<point x="180" y="749"/>
+			<point x="59" y="736" type="curve"/>
+			<point x="150" y="626" type="line"/>
+			<point x="230" y="628"/>
+			<point x="405" y="648"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>I</string>
+			<key>public.markColor</key>
+			<string>0.97,0.9,0,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0644.medi" format="2">
+	<advance width="357.5"/>
+	<anchor x="171" y="-100" name="bottom"/>
+	<anchor x="171" y="753" name="top"/>
+	<outline>
+		<contour>
+			<point x="0" y="63" type="curve"/>
+			<point x="0" y="0" type="line"/>
+			<point x="123" y="0"/>
+			<point x="209" y="73"/>
+			<point x="216" y="167" type="curve"/>
+			<point x="249" y="213" type="line"/>
+			<point x="250" y="389"/>
+			<point x="252" y="566"/>
+			<point x="232" y="728" type="curve"/>
+			<point x="86" y="702" type="line"/>
+			<point x="116" y="568"/>
+			<point x="137" y="378"/>
+			<point x="137" y="269" type="curve" smooth="yes"/>
+			<point x="137" y="124"/>
+			<point x="90" y="63"/>
+		</contour>
+		<contour>
+			<point x="249" y="213" type="curve"/>
+			<point x="175" y="206" type="line"/>
+			<point x="175" y="51"/>
+			<point x="258" y="0"/>
+			<point x="358" y="0" type="curve"/>
+			<point x="378" y="31" type="line"/>
+			<point x="358" y="62" type="line"/>
+			<point x="292" y="63"/>
+			<point x="249" y="115"/>
+		</contour>
+	</outline>
+</glyph>

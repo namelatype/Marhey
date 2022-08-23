@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06340649.fina" format="2">
+	<advance width="1589"/>
+	<anchor x="1063" y="-100" name="bottom_1"/>
+	<anchor x="415" y="-379" name="bottom_2"/>
+	<anchor x="1121" y="-30" name="bottomdiacritic"/>
+	<anchor x="753" y="0" name="caret_1"/>
+	<anchor x="1075" y="753" name="top_1"/>
+	<anchor x="213" y="400" name="top_2"/>
+	<outline>
+		<component base="uni06330649.fina"/>
+		<component base="threedotsupabove-ar" xOffset="1039" yOffset="-153"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>sheen-ar.medi</string>
+			<key>public.markColor</key>
+			<string>0.25,0.25,0.25,1</string>
+		</dict>
+	</lib>
+</glyph>

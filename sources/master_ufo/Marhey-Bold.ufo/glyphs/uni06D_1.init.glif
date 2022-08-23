@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06D1.init" format="2">
+	<advance width="340"/>
+	<anchor x="182" y="-377" name="bottom"/>
+	<anchor x="172" y="550" name="top"/>
+	<outline>
+		<component base="uni067E.init"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>uni067E.init</string>
+				</dict>
+			</array>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

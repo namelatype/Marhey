@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFDF2" format="2">
+	<advance width="1505"/>
+	<anchor x="1367" y="-52" name="bottom"/>
+	<anchor x="1029" y="-52" name="bottom_1"/>
+	<anchor x="663" y="-52" name="bottom_2"/>
+	<anchor x="278" y="-46" name="bottom_3"/>
+	<anchor x="553" y="0" name="caret_1"/>
+	<anchor x="909" y="0" name="caret_2"/>
+	<anchor x="1228" y="0" name="caret_3"/>
+	<anchor x="1369" y="761" name="top"/>
+	<anchor x="1041" y="739" name="top_1"/>
+	<anchor x="702" y="641" name="top_2"/>
+	<anchor x="312" y="483" name="top_3"/>
+	<anchor x="310" y="460" name="topdiacritic"/>
+	<outline>
+		<contour>
+			<point x="893" y="63" type="curve"/>
+			<point x="893" y="0" type="line"/>
+			<point x="1070" y="0"/>
+			<point x="1128" y="139"/>
+			<point x="1137" y="268" type="curve" smooth="yes"/>
+			<point x="1145" y="390"/>
+			<point x="1142" y="534"/>
+			<point x="1125" y="725" type="curve"/>
+			<point x="975" y="700" type="line"/>
+			<point x="1004" y="565"/>
+			<point x="1026" y="393"/>
+			<point x="1027" y="263" type="curve" smooth="yes"/>
+			<point x="1026" y="132"/>
+			<point x="985" y="63"/>
+		</contour>
+		<contour>
+			<point x="184" y="16" type="curve" smooth="yes"/>
+			<point x="303" y="16"/>
+			<point x="373" y="141"/>
+			<point x="373" y="231" type="curve"/>
+			<point x="321" y="240" type="line"/>
+			<point x="321" y="190"/>
+			<point x="277" y="138"/>
+			<point x="224" y="138" type="curve" smooth="yes"/>
+			<point x="188" y="138"/>
+			<point x="162" y="161"/>
+			<point x="162" y="203" type="curve" smooth="yes"/>
+			<point x="162" y="259"/>
+			<point x="213" y="356"/>
+			<point x="367" y="362" type="curve"/>
+			<point x="372" y="418" type="line"/>
+			<point x="245" y="416"/>
+			<point x="53" y="345"/>
+			<point x="53" y="159" type="curve" smooth="yes"/>
+			<point x="53" y="63"/>
+			<point x="128" y="16"/>
+		</contour>
+		<contour>
+			<point x="442" y="198" type="curve" smooth="yes"/>
+			<point x="443" y="272"/>
+			<point x="453" y="375"/>
+			<point x="465" y="450" type="curve"/>
+			<point x="327" y="432" type="line"/>
+			<point x="323" y="358"/>
+			<point x="321" y="308"/>
+			<point x="321" y="240" type="curve" smooth="yes"/>
+			<point x="321" y="93"/>
+			<point x="378" y="0"/>
+			<point x="545" y="0" type="curve"/>
+			<point x="565" y="31" type="line"/>
+			<point x="545" y="62" type="line"/>
+			<point x="495" y="63"/>
+			<point x="441" y="96"/>
+		</contour>
+		<contour>
+			<point x="787" y="213" type="curve"/>
+			<point x="713" y="206" type="line"/>
+			<point x="708" y="61"/>
+			<point x="796" y="0"/>
+			<point x="893" y="0" type="curve"/>
+			<point x="913" y="31" type="line"/>
+			<point x="893" y="62" type="line"/>
+			<point x="830" y="63"/>
+			<point x="783" y="108"/>
+		</contour>
+		<contour>
+			<point x="545" y="63" type="curve"/>
+			<point x="545" y="0" type="line"/>
+			<point x="668" y="0"/>
+			<point x="748" y="71"/>
+			<point x="758" y="167" type="curve"/>
+			<point x="787" y="213" type="line"/>
+			<point x="791" y="390"/>
+			<point x="790" y="451"/>
+			<point x="780" y="588" type="curve"/>
+			<point x="633" y="559" type="line"/>
+			<point x="661" y="428"/>
+			<point x="672" y="359"/>
+			<point x="675" y="240" type="curve" smooth="yes"/>
+			<point x="678" y="132"/>
+			<point x="635" y="63"/>
+		</contour>
+		<component base="uni06510670" xOffset="648" yOffset="22"/>
+		<component base="uni0627" xOffset="1216"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>5</integer>
+					<key>name</key>
+					<string>uni06510670</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>6</integer>
+					<key>name</key>
+					<string>uni0627</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>heh-ar.fina</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>alef-ar</string>
+		</dict>
+	</lib>
+</glyph>

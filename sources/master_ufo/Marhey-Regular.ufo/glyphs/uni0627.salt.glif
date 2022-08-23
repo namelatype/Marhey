@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0627.salt" format="2">
+	<advance width="288.75"/>
+	<anchor x="147" y="-100" name="bottom"/>
+	<anchor x="140" y="720" name="top"/>
+	<outline>
+		<contour>
+			<point x="101" y="-19" type="curve"/>
+			<point x="177" y="-1" type="line"/>
+			<point x="209" y="194"/>
+			<point x="224" y="435"/>
+			<point x="217" y="679" type="curve"/>
+			<point x="70" y="659" type="line"/>
+			<point x="104" y="423"/>
+			<point x="109" y="218"/>
+		</contour>
+	</outline>
+</glyph>

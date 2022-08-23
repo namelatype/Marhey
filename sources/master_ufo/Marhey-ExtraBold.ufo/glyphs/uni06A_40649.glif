@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06A40649" format="2">
+	<advance width="970"/>
+	<anchor x="783" y="-279" name="bottom_1"/>
+	<anchor x="439" y="-387" name="bottom_2"/>
+	<anchor x="375" y="0" name="caret_1"/>
+	<anchor x="701" y="822" name="top_1"/>
+	<anchor x="201" y="400" name="top_2"/>
+	<outline>
+		<component base="uni06A10649"/>
+		<component base="threedotsupabove-ar" xOffset="664" yOffset="-79"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>veh-ar.init</string>
+			<key>public.markColor</key>
+			<string>0.97,0.9,0,1</string>
+		</dict>
+	</lib>
+</glyph>

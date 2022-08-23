@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni064A06CE.fina" format="2">
+	<advance width="1030"/>
+	<anchor x="860" y="-352" name="bottom_1"/>
+	<anchor x="393" y="-551" name="bottom_2"/>
+	<anchor x="654" y="0" name="caret_1"/>
+	<anchor x="758" y="482" name="top_1"/>
+	<anchor x="212" y="450" name="top_2"/>
+	<outline>
+		<component base="uni064A0649.fina"/>
+		<component base="caron.ar" xOffset="4" yOffset="-386"/>
+		<component base="twodotshorizontalbelow-ar" xOffset="344" yOffset="-345"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>uni064A0649.fina</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>caron.ar</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>twodotshorizontalbelow-ar</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>yehVabove-ar.fina</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>yeh-ar.medi</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni062C0631" format="2">
+	<advance width="850"/>
+	<anchor x="544" y="-202" name="bottom_1"/>
+	<anchor x="165" y="-510" name="bottom_2"/>
+	<anchor x="382" y="0" name="caret_1"/>
+	<anchor x="544" y="550" name="top_1"/>
+	<anchor x="135" y="450" name="top_2"/>
+	<outline>
+		<component base="uni062D0631"/>
+		<component base="dotbelow-ar" xOffset="485" yOffset="28"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>reh-ar.fina</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>heh-ar.init</string>
+		</dict>
+	</lib>
+</glyph>

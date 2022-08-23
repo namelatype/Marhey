@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06440686.init" format="2">
+	<advance width="611"/>
+	<anchor x="457" y="-196" name="bottom_1"/>
+	<anchor x="134" y="-311" name="bottom_2"/>
+	<anchor x="230" y="0" name="caret_1"/>
+	<anchor x="359" y="768" name="top_1"/>
+	<anchor x="117" y="534" name="top_2"/>
+	<outline>
+		<component base="uni0644062D.init"/>
+		<component base="threedotsdownbelow-ar" xScale="0.975" yScale="0.975" xOffset="198" yOffset="-6"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>tcheh-ar.medi</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>lam-ar.init</string>
+		</dict>
+	</lib>
+</glyph>

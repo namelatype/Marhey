@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0624.fina" format="2">
+	<advance width="540"/>
+	<anchor x="261" y="-450" name="bottom"/>
+	<anchor x="261" y="715" name="top"/>
+	<outline>
+		<component base="uni0648.fina"/>
+		<component base="uni0654" xOffset="224" yOffset="-161"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>uni0654</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

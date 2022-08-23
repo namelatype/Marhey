@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0686.fina" format="2">
+	<advance width="627.5"/>
+	<anchor x="354" y="-83" name="_center"/>
+	<anchor x="339" y="-470" name="bottom"/>
+	<anchor x="338" y="516" name="top"/>
+	<outline>
+		<component base="uni062D.fina"/>
+		<contour>
+			<point x="364" y="-198" type="curve"/>
+			<point x="421" y="-139" type="line"/>
+			<point x="395" y="-122"/>
+			<point x="375" y="-104"/>
+			<point x="355" y="-81" type="curve"/>
+			<point x="298" y="-142" type="line"/>
+			<point x="315" y="-163"/>
+			<point x="340" y="-182"/>
+		</contour>
+		<contour>
+			<point x="311" y="-101" type="curve"/>
+			<point x="374" y="-35" type="line"/>
+			<point x="345" y="-16"/>
+			<point x="323" y="3"/>
+			<point x="300" y="29" type="curve"/>
+			<point x="238" y="-38" type="line"/>
+			<point x="256" y="-61"/>
+			<point x="284" y="-83"/>
+		</contour>
+		<contour>
+			<point x="407" y="-101" type="curve"/>
+			<point x="470" y="-35" type="line"/>
+			<point x="441" y="-16"/>
+			<point x="419" y="3"/>
+			<point x="397" y="29" type="curve"/>
+			<point x="335" y="-38" type="line"/>
+			<point x="353" y="-61"/>
+			<point x="381" y="-83"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>uni062D.fina</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

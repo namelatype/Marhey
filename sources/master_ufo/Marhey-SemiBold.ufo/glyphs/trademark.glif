@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="trademark" format="2">
+	<advance width="1034"/>
+	<unicode hex="2122"/>
+	<anchor x="362" y="800" name="top"/>
+	<outline>
+		<contour>
+			<point x="160" y="385" type="curve"/>
+			<point x="238" y="398" type="line"/>
+			<point x="253" y="529"/>
+			<point x="258" y="643"/>
+			<point x="252" y="773" type="curve"/>
+			<point x="145" y="756" type="line"/>
+			<point x="163" y="627"/>
+			<point x="165" y="519"/>
+		</contour>
+		<contour>
+			<point x="359" y="710" type="line"/>
+			<point x="360" y="783" type="line"/>
+			<point x="36" y="766" type="line"/>
+			<point x="38" y="715" type="line"/>
+		</contour>
+		<contour>
+			<point x="425" y="385" type="curve"/>
+			<point x="506" y="398" type="line"/>
+			<point x="523" y="539"/>
+			<point x="523" y="638"/>
+			<point x="519" y="773" type="curve"/>
+			<point x="413" y="756" type="line"/>
+			<point x="429" y="621"/>
+			<point x="429" y="525"/>
+		</contour>
+		<contour>
+			<point x="634" y="389" type="curve"/>
+			<point x="735" y="404" type="line"/>
+			<point x="737" y="604"/>
+			<point x="715" y="771"/>
+			<point x="610" y="771" type="curve" smooth="yes"/>
+			<point x="540" y="771"/>
+			<point x="493" y="706"/>
+			<point x="472" y="497" type="curve"/>
+			<point x="516" y="505" type="line"/>
+			<point x="525" y="642"/>
+			<point x="557" y="724"/>
+			<point x="599" y="724" type="curve" smooth="yes"/>
+			<point x="657" y="724"/>
+			<point x="647" y="498"/>
+		</contour>
+		<contour>
+			<point x="858" y="390" type="curve"/>
+			<point x="961" y="401" type="line"/>
+			<point x="972" y="577"/>
+			<point x="943" y="774"/>
+			<point x="824" y="774" type="curve" smooth="yes"/>
+			<point x="708" y="774"/>
+			<point x="688" y="595"/>
+			<point x="686" y="497" type="curve"/>
+			<point x="735" y="404" type="line"/>
+			<point x="743" y="538"/>
+			<point x="753" y="724"/>
+			<point x="813" y="724" type="curve" smooth="yes"/>
+			<point x="864" y="724"/>
+			<point x="870" y="496"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>RMXScaler</key>
+			<dict>
+				<key>height</key>
+				<integer>40</integer>
+				<key>weight</key>
+				<integer>-550</integer>
+				<key>width</key>
+				<integer>40</integer>
+			</dict>
+			<key>com.schriftgestaltung.glyph.userData</key>
+			<dict>
+				<key>RMXScaler</key>
+				<dict>
+					<key>source</key>
+					<string>T</string>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T_H" format="2">
+	<advance width="1373"/>
+	<outline>
+		<contour>
+			<point x="289" y="-13" type="curve"/>
+			<point x="433" y="13" type="line"/>
+			<point x="461" y="275"/>
+			<point x="469" y="503"/>
+			<point x="459" y="761" type="curve"/>
+			<point x="264" y="730" type="line"/>
+			<point x="295" y="469"/>
+			<point x="299" y="254"/>
+		</contour>
+		<contour>
+			<point x="643" y="-13" type="curve"/>
+			<point x="787" y="13" type="line"/>
+			<point x="808" y="204"/>
+			<point x="817" y="386"/>
+			<point x="816" y="565" type="curve"/>
+			<point x="637" y="535" type="line"/>
+			<point x="650" y="345"/>
+			<point x="649" y="162"/>
+		</contour>
+		<contour>
+			<point x="787" y="658" type="line"/>
+			<point x="788" y="783" type="line"/>
+			<point x="36" y="750" type="line"/>
+			<point x="40" y="667" type="line"/>
+		</contour>
+		<contour>
+			<point x="673" y="402" type="curve"/>
+			<point x="664" y="336" type="line"/>
+			<point x="822" y="298"/>
+			<point x="1123" y="311"/>
+			<point x="1279" y="336" type="curve"/>
+			<point x="1243" y="440" type="line"/>
+			<point x="1094" y="380"/>
+			<point x="807" y="382"/>
+		</contour>
+		<contour>
+			<point x="1137" y="-11" type="curve"/>
+			<point x="1280" y="19" type="line"/>
+			<point x="1303" y="277"/>
+			<point x="1307" y="491"/>
+			<point x="1294" y="753" type="curve"/>
+			<point x="1102" y="717" type="line"/>
+			<point x="1138" y="435"/>
+			<point x="1141" y="281"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>T</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>H</string>
+		</dict>
+	</lib>
+</glyph>

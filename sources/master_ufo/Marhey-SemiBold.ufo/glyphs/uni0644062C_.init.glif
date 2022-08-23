@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0644062C.init" format="2">
+	<advance width="612"/>
+	<anchor x="445" y="-130" name="bottom_1"/>
+	<anchor x="148" y="-234" name="bottom_2"/>
+	<anchor x="230" y="0" name="caret_1"/>
+	<anchor x="354" y="782" name="top_1"/>
+	<anchor x="100" y="522" name="top_2"/>
+	<outline>
+		<component base="uni0644062D.init"/>
+		<component base="dotbelow-ar" xOffset="203" yOffset="-16"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>jeem-ar.medi</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>lam-ar.init</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni062A0646.fina" format="2">
+	<advance width="990"/>
+	<anchor x="800" y="-114" name="bottom_1"/>
+	<anchor x="334" y="-311" name="bottom_2"/>
+	<anchor x="664" y="0" name="caret_1"/>
+	<anchor x="775" y="675" name="top_1"/>
+	<anchor x="335" y="506" name="top_2"/>
+	<outline>
+		<component base="uni06490646.fina"/>
+		<component base="twodotshorizontalabove-ar" xOffset="726" yOffset="-218"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>uni06490646.fina</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>twodotshorizontalabove-ar</string>
+				</dict>
+			</array>
+			<key>public.markColor</key>
+			<string>0.04,0.57,0.04,1</string>
+		</dict>
+	</lib>
+</glyph>

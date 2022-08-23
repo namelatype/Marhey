@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni062D0631.fina" format="2">
+	<advance width="830"/>
+	<anchor x="533" y="-100" name="bottom_1"/>
+	<anchor x="137" y="-480" name="bottom_2"/>
+	<anchor x="382" y="0" name="caret_1"/>
+	<anchor x="520" y="550" name="top_1"/>
+	<anchor x="117" y="450" name="top_2"/>
+	<outline>
+		<component base="uni062D0631"/>
+		<contour>
+			<point x="695" y="202" type="curve"/>
+			<point x="632" y="202" type="line"/>
+			<point x="632" y="50"/>
+			<point x="738" y="0"/>
+			<point x="830" y="0" type="curve"/>
+			<point x="850" y="25" type="line"/>
+			<point x="830" y="50" type="line"/>
+			<point x="757" y="50"/>
+			<point x="695" y="101"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>reh-ar.fina</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>hah-ar.medi</string>
+		</dict>
+	</lib>
+</glyph>

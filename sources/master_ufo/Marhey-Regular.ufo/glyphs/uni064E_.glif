@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni064E" format="2">
+	<advance width="0"/>
+	<unicode hex="064E"/>
+	<anchor x="50" y="602" name="_top"/>
+	<anchor x="49" y="697" name="top"/>
+	<outline>
+		<contour>
+			<point x="-71" y="679" type="curve"/>
+			<point x="-71" y="618" type="line"/>
+			<point x="35" y="648"/>
+			<point x="80" y="661"/>
+			<point x="171" y="685" type="curve"/>
+			<point x="171" y="722" type="line"/>
+			<point x="84" y="707"/>
+			<point x="25" y="696"/>
+		</contour>
+	</outline>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni067E0632" format="2">
+	<advance width="696"/>
+	<anchor x="508" y="-372" name="bottom_1"/>
+	<anchor x="173" y="-525" name="bottom_2"/>
+	<anchor x="352" y="0" name="caret_1"/>
+	<anchor x="504" y="546" name="top_1"/>
+	<anchor x="158" y="438" name="top_2"/>
+	<outline>
+		<component base="uni067E0631"/>
+		<component base="dotabove-ar" xOffset="97" yOffset="-544"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>zain-ar.fina</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>peh-ar.init</string>
+		</dict>
+	</lib>
+</glyph>

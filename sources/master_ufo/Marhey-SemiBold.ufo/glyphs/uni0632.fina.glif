@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0632.fina" format="2">
+	<advance width="337.5"/>
+	<anchor x="155" y="-510" name="bottom"/>
+	<anchor x="179" y="321" name="top"/>
+	<outline>
+		<component base="uni0631.fina"/>
+		<component base="dotabove-ar" xOffset="139" yOffset="-554"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>uni0631.fina</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>dotabove-ar</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

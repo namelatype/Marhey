@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni062E.medi" format="2">
+	<advance width="610"/>
+	<anchor x="313" y="-100" name="bottom"/>
+	<anchor x="309" y="684" name="top"/>
+	<outline>
+		<component base="uni062D.medi"/>
+		<component base="dotabove-ar" xOffset="261" yOffset="-184"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>dotabove-ar</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

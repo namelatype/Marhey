@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06340695.fina" format="2">
+	<advance width="1264"/>
+	<anchor x="813" y="-90" name="bottom_1"/>
+	<anchor x="154" y="-688" name="bottom_2"/>
+	<anchor x="426" y="0" name="caret_1"/>
+	<anchor x="774" y="697" name="top_1"/>
+	<anchor x="211" y="425" name="top_2"/>
+	<outline>
+		<component base="uni06340631.fina"/>
+		<component base="caron.ar" xOffset="-38" yOffset="-1214"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>uni06340631.fina</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>caron.ar</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>rehVbelow-ar.fina</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>sheen-ar.medi</string>
+		</dict>
+	</lib>
+</glyph>

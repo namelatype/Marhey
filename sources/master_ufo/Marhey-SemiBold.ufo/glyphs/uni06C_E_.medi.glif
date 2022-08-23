@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06CE.medi" format="2">
+	<advance width="365"/>
+	<anchor x="179" y="-246" name="bottom"/>
+	<anchor x="177" y="650" name="top"/>
+	<outline>
+		<contour>
+			<point x="0" y="75" type="curve"/>
+			<point x="0" y="0" type="line"/>
+			<point x="213" y="0"/>
+			<point x="302" y="103"/>
+			<point x="280" y="335" type="curve"/>
+			<point x="91" y="311" type="line"/>
+			<point x="126" y="156"/>
+			<point x="89" y="75"/>
+		</contour>
+		<component base="caron.ar" xOffset="30" yOffset="-162"/>
+		<component base="twodotshorizontalbelow-ar" xOffset="129" yOffset="-41"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>caron.ar</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>twodotshorizontalbelow-ar</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2085" format="2">
+	<advance width="317"/>
+	<unicode hex="2085"/>
+	<outline>
+		<component base="five" xScale="0.5" yScale="0.5" yOffset="-100"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>RMXScaler</key>
+			<dict>
+				<key>height</key>
+				<integer>50</integer>
+				<key>weight</key>
+				<integer>-450</integer>
+				<key>width</key>
+				<integer>50</integer>
+			</dict>
+			<key>com.schriftgestaltung.glyph.userData</key>
+			<dict>
+				<key>RMXScaler</key>
+				<dict>
+					<key>source</key>
+					<string>five</string>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

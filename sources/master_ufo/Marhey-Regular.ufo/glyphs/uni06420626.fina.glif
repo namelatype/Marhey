@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06420626.fina" format="2">
+	<advance width="980"/>
+	<anchor x="830" y="-215" name="bottom_1"/>
+	<anchor x="433" y="-384" name="bottom_2"/>
+	<anchor x="509" y="0" name="caret_1"/>
+	<anchor x="680" y="694" name="top_1"/>
+	<anchor x="210" y="450" name="top_2"/>
+	<outline>
+		<component base="uni06420649.fina"/>
+		<component base="uni0654" xOffset="100" yOffset="-466"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>uni0654</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>yehHamzaabove-ar.fina</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>qaf-ar.medi</string>
+			<key>public.markColor</key>
+			<string>0.97,0.9,0,1</string>
+		</dict>
+	</lib>
+</glyph>

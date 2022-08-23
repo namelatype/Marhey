@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni066E0649.fina" format="2">
+	<advance width="1030"/>
+	<anchor x="843" y="-144" name="bottom_1"/>
+	<anchor x="413" y="-382" name="bottom_2"/>
+	<anchor x="690" y="0" name="caret_1"/>
+	<anchor x="742" y="522" name="top_1"/>
+	<anchor x="224" y="400" name="top_2"/>
+	<outline>
+		<contour>
+			<point x="410" y="-310" type="curve" smooth="yes"/>
+			<point x="622" y="-310"/>
+			<point x="716" y="-166"/>
+			<point x="716" y="-43" type="curve" smooth="yes"/>
+			<point x="716" y="102"/>
+			<point x="548" y="126"/>
+			<point x="411" y="117" type="curve"/>
+			<point x="351" y="-41" type="line"/>
+			<point x="535" y="-7"/>
+			<point x="636" y="-39"/>
+			<point x="636" y="-88" type="curve" smooth="yes"/>
+			<point x="636" y="-143"/>
+			<point x="552" y="-201"/>
+			<point x="450" y="-201" type="curve" smooth="yes"/>
+			<point x="340" y="-201"/>
+			<point x="207" y="-135"/>
+			<point x="194" y="126" type="curve"/>
+			<point x="30" y="62" type="line"/>
+			<point x="54" y="-187"/>
+			<point x="236" y="-310"/>
+		</contour>
+		<contour>
+			<point x="351" y="-41" type="curve"/>
+			<point x="434" y="9" type="line"/>
+			<point x="434" y="178"/>
+			<point x="592" y="246"/>
+			<point x="664" y="246" type="curve" smooth="yes"/>
+			<point x="834" y="246"/>
+			<point x="735" y="0"/>
+			<point x="1030" y="0" type="curve"/>
+			<point x="1050" y="37" type="line"/>
+			<point x="1030" y="74" type="line"/>
+			<point x="884" y="75"/>
+			<point x="972" y="364"/>
+			<point x="725" y="364" type="curve" smooth="yes"/>
+			<point x="549" y="364"/>
+			<point x="351" y="218"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>behDotless-ar.medi</string>
+			<key>public.markColor</key>
+			<string>0.98,0.36,0.67,1</string>
+		</dict>
+	</lib>
+</glyph>

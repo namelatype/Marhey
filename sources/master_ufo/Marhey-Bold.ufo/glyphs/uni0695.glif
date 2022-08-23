@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0695" format="2">
+	<advance width="378"/>
+	<unicode hex="0695"/>
+	<anchor x="139" y="-620" name="bottom"/>
+	<anchor x="150" y="550" name="top"/>
+	<outline>
+		<component base="uni0631"/>
+		<component base="caron.ar" xOffset="-20" yOffset="-1141"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>uni0631</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>caron.ar</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>reh-ar</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>reh-ar</string>
+		</dict>
+	</lib>
+</glyph>

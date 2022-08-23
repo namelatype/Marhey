@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni066E.medi.calt" format="2">
+	<advance width="357.5"/>
+	<anchor x="179" y="-99" name="bottom"/>
+	<anchor x="186" y="513" name="top"/>
+	<outline>
+		<contour>
+			<point x="0" y="63" type="curve"/>
+			<point x="0" y="0" type="line"/>
+			<point x="182" y="0"/>
+			<point x="269" y="93"/>
+			<point x="258" y="263" type="curve"/>
+			<point x="116" y="243" type="line"/>
+			<point x="133" y="118"/>
+			<point x="94" y="63"/>
+		</contour>
+		<contour>
+			<point x="230" y="224" type="curve"/>
+			<point x="175" y="194" type="line"/>
+			<point x="175" y="91"/>
+			<point x="230" y="0"/>
+			<point x="358" y="0" type="curve"/>
+			<point x="378" y="31" type="line"/>
+			<point x="358" y="62" type="line"/>
+			<point x="269" y="63"/>
+			<point x="230" y="127"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.25,0.25,0.25,1</string>
+		</dict>
+	</lib>
+</glyph>

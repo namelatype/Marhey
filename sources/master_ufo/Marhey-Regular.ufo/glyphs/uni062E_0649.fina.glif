@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni062E0649.fina" format="2">
+	<advance width="918"/>
+	<anchor x="756" y="-215" name="bottom_1"/>
+	<anchor x="390" y="-364" name="bottom_2"/>
+	<anchor x="445" y="0" name="caret_1"/>
+	<anchor x="595" y="663" name="top_1"/>
+	<anchor x="187" y="400" name="top_2"/>
+	<outline>
+		<component base="uni062D0649.fina"/>
+		<component base="dotabove-ar" xOffset="551" yOffset="-204"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>khah-ar.medi</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

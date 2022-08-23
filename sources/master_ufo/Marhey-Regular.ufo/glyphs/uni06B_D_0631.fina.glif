@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06BD0631.fina" format="2">
+	<advance width="650"/>
+	<anchor x="492" y="-88" name="bottom_1"/>
+	<anchor x="149" y="-472" name="bottom_2"/>
+	<anchor x="313" y="0" name="caret_1"/>
+	<anchor x="473" y="670" name="top_1"/>
+	<anchor x="144" y="413" name="top_2"/>
+	<outline>
+		<component base="uni062B0631.fina"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>reh-ar.fina</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>noonThreedotsabove-ar.medi</string>
+		</dict>
+	</lib>
+</glyph>

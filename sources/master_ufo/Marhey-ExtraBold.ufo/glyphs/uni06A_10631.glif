@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06A10631" format="2">
+	<advance width="900"/>
+	<anchor x="601" y="-46" name="bottom_1"/>
+	<anchor x="429" y="-354" name="bottom_2"/>
+	<anchor x="465" y="0" name="caret_1"/>
+	<anchor x="609" y="575" name="top_1"/>
+	<anchor x="275" y="400" name="top_2"/>
+	<outline>
+		<contour>
+			<point x="-80" y="-299" type="curve"/>
+			<point x="101" y="-490" type="line"/>
+			<point x="249" y="-394"/>
+			<point x="290" y="-256"/>
+			<point x="290" y="-149" type="curve" smooth="yes"/>
+			<point x="290" y="-26"/>
+			<point x="366" y="0"/>
+			<point x="451" y="0" type="curve" smooth="yes"/>
+			<point x="688" y="0"/>
+			<point x="860" y="107"/>
+			<point x="860" y="255" type="curve" smooth="yes"/>
+			<point x="860" y="368"/>
+			<point x="770" y="432"/>
+			<point x="636" y="432" type="curve" smooth="yes"/>
+			<point x="468" y="432"/>
+			<point x="389" y="337"/>
+			<point x="389" y="251" type="curve" smooth="yes"/>
+			<point x="389" y="159"/>
+			<point x="487" y="96"/>
+			<point x="590" y="75" type="curve"/>
+			<point x="660" y="131" type="line"/>
+			<point x="569" y="152"/>
+			<point x="514" y="198"/>
+			<point x="514" y="231" type="curve" smooth="yes"/>
+			<point x="514" y="256"/>
+			<point x="537" y="280"/>
+			<point x="577" y="280" type="curve" smooth="yes"/>
+			<point x="613" y="280"/>
+			<point x="640" y="262"/>
+			<point x="640" y="228" type="curve" smooth="yes"/>
+			<point x="640" y="177"/>
+			<point x="576" y="107"/>
+			<point x="436" y="107" type="curve" smooth="yes"/>
+			<point x="332" y="107"/>
+			<point x="183" y="115"/>
+			<point x="143" y="-30" type="curve"/>
+			<point x="95" y="-182"/>
+			<point x="35" y="-224"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>reh-ar.fina</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>feh-ar.init</string>
+		</dict>
+	</lib>
+</glyph>

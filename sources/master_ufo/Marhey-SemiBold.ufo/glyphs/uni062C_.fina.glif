@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni062C.fina" format="2">
+	<advance width="625"/>
+	<anchor x="339" y="-471" name="bottom"/>
+	<anchor x="337" y="510" name="top"/>
+	<outline>
+		<component base="uni062D.fina"/>
+		<component base="dotcenter-ar" xOffset="301" yOffset="-472"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>uni062D.fina</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>dotcenter-ar</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

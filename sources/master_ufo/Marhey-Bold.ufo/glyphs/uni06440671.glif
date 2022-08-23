@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06440671" format="2">
+	<advance width="705"/>
+	<anchor x="540" y="-100" name="bottom_1"/>
+	<anchor x="185" y="-100" name="bottom_2"/>
+	<anchor x="350" y="0" name="caret_1"/>
+	<anchor x="536" y="838" name="top_1"/>
+	<anchor x="150" y="862" name="top_2"/>
+	<outline>
+		<component base="uni06440627"/>
+		<component base="wasla-ar" xOffset="119" yOffset="36"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>uni06440627</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>wasla-ar</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

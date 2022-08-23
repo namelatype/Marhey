@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni062D.medi" format="2">
+	<advance width="610"/>
+	<anchor x="322" y="-94" name="bottom"/>
+	<anchor x="329" y="520" name="top"/>
+	<outline>
+		<contour>
+			<point x="0" y="63" type="curve"/>
+			<point x="0" y="0" type="line"/>
+			<point x="249" y="0"/>
+			<point x="372" y="173"/>
+			<point x="546" y="173" type="curve"/>
+			<point x="555" y="309" type="line"/>
+			<point x="355" y="309"/>
+			<point x="223" y="63"/>
+		</contour>
+		<contour>
+			<point x="48" y="413" type="curve"/>
+			<point x="75" y="278" type="line"/>
+			<point x="242" y="325"/>
+			<point x="392" y="282"/>
+			<point x="533" y="259" type="curve"/>
+			<point x="555" y="309" type="line"/>
+			<point x="405" y="367"/>
+			<point x="253" y="442"/>
+		</contour>
+		<contour>
+			<point x="481" y="202" type="curve"/>
+			<point x="403" y="202" type="line"/>
+			<point x="403" y="55"/>
+			<point x="508" y="0"/>
+			<point x="610" y="0" type="curve"/>
+			<point x="630" y="31" type="line"/>
+			<point x="610" y="62" type="line"/>
+			<point x="540" y="63"/>
+			<point x="481" y="106"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

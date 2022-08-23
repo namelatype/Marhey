@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06A5.init" format="2">
+	<advance width="548.25"/>
+	<anchor x="292" y="-338" name="bottom"/>
+	<anchor x="260" y="550" name="top"/>
+	<outline>
+		<component base="uni06A1.init"/>
+		<component base="threedotsdownbelow-ar" xScale="0.9" yScale="0.9" xOffset="232" yOffset="-20"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>uni06A1.init</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>threedotsdownbelow-ar</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

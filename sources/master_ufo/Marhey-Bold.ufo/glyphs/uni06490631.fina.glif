@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06490631.fina" format="2">
+	<advance width="670"/>
+	<anchor x="487" y="-50" name="bottom_1"/>
+	<anchor x="281" y="-336" name="bottom_2"/>
+	<anchor x="344" y="0" name="caret_1"/>
+	<anchor x="424" y="450" name="top_1"/>
+	<anchor x="123" y="400" name="top_2"/>
+	<outline>
+		<component base="uni066E0631.fina"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>uni066E0631.fina</string>
+				</dict>
+			</array>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

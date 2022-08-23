@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni062C" format="2">
+	<advance width="637.5"/>
+	<unicode hex="062C"/>
+	<anchor x="340" y="-471" name="bottom"/>
+	<anchor x="337" y="505" name="top"/>
+	<outline>
+		<component base="uni062D"/>
+		<component base="dotcenter-ar" xOffset="315" yOffset="-484"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>uni062D</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>dotcenter-ar</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

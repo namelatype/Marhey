@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06420649" format="2">
+	<advance width="962"/>
+	<anchor x="791" y="-250" name="bottom_1"/>
+	<anchor x="432" y="-387" name="bottom_2"/>
+	<anchor x="375" y="0" name="caret_1"/>
+	<anchor x="693" y="693" name="top_1"/>
+	<anchor x="213" y="400" name="top_2"/>
+	<outline>
+		<component base="uni06A10649"/>
+		<component base="twodotshorizontalabove-ar" xOffset="657" yOffset="-188"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>qaf-ar.init</string>
+			<key>public.markColor</key>
+			<string>0.97,0.9,0,1</string>
+		</dict>
+	</lib>
+</glyph>

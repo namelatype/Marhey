@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twodotsverticalabove-ar" format="2">
+	<advance width="0"/>
+	<anchor x="50" y="630" name="_top"/>
+	<anchor x="50" y="906" name="top"/>
+	<outline>
+		<contour>
+			<point x="55" y="757" type="curve"/>
+			<point x="123" y="826" type="line"/>
+			<point x="91" y="847"/>
+			<point x="68" y="869"/>
+			<point x="44" y="896" type="curve"/>
+			<point x="-23" y="824" type="line"/>
+			<point x="-3" y="799"/>
+			<point x="26" y="775"/>
+		</contour>
+		<contour>
+			<point x="55" y="649" type="curve"/>
+			<point x="123" y="718" type="line"/>
+			<point x="91" y="739"/>
+			<point x="68" y="761"/>
+			<point x="44" y="788" type="curve"/>
+			<point x="-23" y="716" type="line"/>
+			<point x="-3" y="691"/>
+			<point x="26" y="667"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.98,0.36,0.67,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06440622" format="2">
+	<advance width="675"/>
+	<anchor x="515" y="-100" name="bottom_1"/>
+	<anchor x="175" y="-100" name="bottom_2"/>
+	<anchor x="334" y="0" name="caret_1"/>
+	<anchor x="520" y="813" name="top_1"/>
+	<anchor x="129" y="811" name="top_2"/>
+	<outline>
+		<component base="uni06440627"/>
+		<component base="uni0653" xOffset="73" yOffset="8"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>uni06440627</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>uni0653</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

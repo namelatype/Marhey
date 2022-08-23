@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni069C06CC" format="2">
+	<advance width="1542"/>
+	<anchor x="1149" y="-369" name="bottom_1"/>
+	<anchor x="442" y="-369" name="bottom_2"/>
+	<anchor x="645" y="0" name="caret_1"/>
+	<anchor x="1071" y="760" name="top_1"/>
+	<anchor x="285" y="400" name="top_2"/>
+	<outline>
+		<component base="uni063406CC"/>
+		<component base="threedotsdownbelow-ar" xOffset="1088" yOffset="-36"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>yehFarsi-ar.fina</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>sheenThreedotsbelow-ar.init</string>
+			<key>public.markColor</key>
+			<string>0.25,0.25,0.25,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni062C06CC.fina" format="2">
+	<advance width="900"/>
+	<anchor x="760" y="-311" name="bottom_1"/>
+	<anchor x="381" y="-360" name="bottom_2"/>
+	<anchor x="445" y="0" name="caret_1"/>
+	<anchor x="596" y="550" name="top_1"/>
+	<anchor x="182" y="400" name="top_2"/>
+	<outline>
+		<component base="uni062C0649.fina"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>yehFarsi-ar.fina</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>jeem-ar.medi</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

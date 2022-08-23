@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0626.medi" format="2">
+	<advance width="365"/>
+	<anchor x="185" y="-100" name="bottom"/>
+	<anchor x="177" y="650" name="top"/>
+	<outline>
+		<component base="uni066E.medi"/>
+		<component base="uni0654" xOffset="138" yOffset="-247"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>uni0654</string>
+				</dict>
+			</array>
+			<key>public.markColor</key>
+			<string>0.25,0.25,0.25,1</string>
+		</dict>
+	</lib>
+</glyph>

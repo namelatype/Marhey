@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06A5.fina" format="2">
+	<advance width="970"/>
+	<anchor x="705" y="-354" name="bottom"/>
+	<anchor x="671" y="550" name="top"/>
+	<outline>
+		<component base="uni06A1.fina"/>
+		<component base="threedotsdownbelow-ar" xScale="0.9" yScale="0.9" xOffset="644" yOffset="-21"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>threedotsdownbelow-ar</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

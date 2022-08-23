@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T_T" format="2">
+	<advance width="1140"/>
+	<outline>
+		<contour>
+			<point x="295" y="-10" type="curve"/>
+			<point x="408" y="10" type="line"/>
+			<point x="431" y="254"/>
+			<point x="436" y="572"/>
+			<point x="424" y="821" type="curve"/>
+			<point x="271" y="794" type="line"/>
+			<point x="301" y="535"/>
+			<point x="303" y="257"/>
+		</contour>
+		<contour>
+			<point x="737" y="-10" type="curve"/>
+			<point x="850" y="10" type="line"/>
+			<point x="873" y="254"/>
+			<point x="878" y="509"/>
+			<point x="866" y="758" type="curve"/>
+			<point x="713" y="732" type="line"/>
+			<point x="744" y="472"/>
+			<point x="745" y="257"/>
+		</contour>
+		<contour>
+			<point x="1099" y="674" type="line"/>
+			<point x="1100" y="775" type="line"/>
+			<point x="41" y="750" type="line"/>
+			<point x="42" y="681" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>T</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>T</string>
+		</dict>
+	</lib>
+</glyph>

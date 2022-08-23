@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0636064A" format="2">
+	<advance width="1415"/>
+	<anchor x="1050" y="-60" name="bottom_1"/>
+	<anchor x="434" y="-556" name="bottom_2"/>
+	<anchor x="752" y="0" name="caret_1"/>
+	<anchor x="1114" y="687" name="top_1"/>
+	<anchor x="231" y="400" name="top_2"/>
+	<outline>
+		<component base="uni06350649"/>
+		<component base="dotabove-ar" xOffset="1080" yOffset="-204"/>
+		<component base="twodotshorizontalbelow-ar" xOffset="369" yOffset="-339"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>yeh-ar.fina</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>dad-ar.init</string>
+			<key>public.markColor</key>
+			<string>0.98,0.36,0.67,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotabove-ar" format="2">
+	<advance width="0"/>
+	<anchor x="54" y="657" name="_top"/>
+	<anchor x="50" y="850" name="top"/>
+	<outline>
+		<contour>
+			<point x="57" y="663" type="curve"/>
+			<point x="140" y="748" type="line"/>
+			<point x="101" y="775"/>
+			<point x="73" y="800"/>
+			<point x="43" y="834" type="curve"/>
+			<point x="-40" y="745" type="line"/>
+			<point x="-15" y="714"/>
+			<point x="21" y="686"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.98,0.36,0.67,1</string>
+		</dict>
+	</lib>
+</glyph>

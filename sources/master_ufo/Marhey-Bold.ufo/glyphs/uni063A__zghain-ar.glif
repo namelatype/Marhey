@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni063A_zghain-ar" format="2">
+	<advance width="587"/>
+	<outline>
+		<component base="uni0639"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>ghain-ar.init</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>ghain-ar.init</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni063606CC" format="2">
+	<advance width="1420"/>
+	<anchor x="1066" y="-79" name="bottom_1"/>
+	<anchor x="412" y="-351" name="bottom_2"/>
+	<anchor x="715" y="0" name="caret_1"/>
+	<anchor x="1138" y="678" name="top_1"/>
+	<anchor x="262" y="400" name="top_2"/>
+	<outline>
+		<component base="uni06350649"/>
+		<component base="dotabove-ar" xOffset="1096" yOffset="-204"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>yehFarsi-ar.fina</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>dad-ar.init</string>
+			<key>public.markColor</key>
+			<string>0.98,0.36,0.67,1</string>
+		</dict>
+	</lib>
+</glyph>
