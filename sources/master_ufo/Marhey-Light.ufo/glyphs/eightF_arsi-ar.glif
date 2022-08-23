@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="eightFarsi-ar" format="2">
-  <advance width="680"/>
-  <unicode hex="06F8"/>
-  <outline>
-    <component base="eight-ar"/>
-  </outline>
-</glyph>

@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="keheh-ar.init.calt" format="2">
-  <advance width="332"/>
-  <anchor x="147" y="-60" name="bottom"/>
-  <anchor x="139" y="741" name="top"/>
-  <outline>
-    <component base="kaf-ar.init.calt"/>
-  </outline>
-</glyph>

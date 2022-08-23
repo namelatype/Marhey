@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="hehDoachashmee-ar.init" format="2">
-  <advance width="550"/>
-  <anchor x="265" y="-69" name="bottom"/>
-  <anchor x="267" y="579" name="top"/>
-  <outline>
-    <component base="heh-ar.init"/>
-  </outline>
-</glyph>
