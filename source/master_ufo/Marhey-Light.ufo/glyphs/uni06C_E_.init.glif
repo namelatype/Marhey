@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06CE.init" format="2">
+	<advance width="310"/>
+	<anchor x="149" y="-100" name="bottom"/>
+	<anchor x="152" y="710" name="top"/>
+	<outline>
+		<component base="uni064A.init"/>
+		<component base="caron.ar" xOffset="12" yOffset="-93"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>caron.ar</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

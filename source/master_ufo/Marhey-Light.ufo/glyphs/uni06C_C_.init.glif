@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06CC.init" format="2">
+	<advance width="310"/>
+	<anchor x="150" y="-226" name="bottom"/>
+	<anchor x="145" y="550" name="top"/>
+	<outline>
+		<component base="uni064A.init"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.25,0.25,0.25,1</string>
+		</dict>
+	</lib>
+</glyph>

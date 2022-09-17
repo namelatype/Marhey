@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFDF2" format="2">
+	<advance width="1574"/>
+	<anchor x="1427" y="-60" name="bottom"/>
+	<anchor x="1089" y="-60" name="bottom_1"/>
+	<anchor x="723" y="-60" name="bottom_2"/>
+	<anchor x="267" y="-36" name="bottom_3"/>
+	<anchor x="560" y="0" name="caret_1"/>
+	<anchor x="916" y="0" name="caret_2"/>
+	<anchor x="1235" y="0" name="caret_3"/>
+	<anchor x="1434" y="761" name="top"/>
+	<anchor x="1048" y="739" name="top_1"/>
+	<anchor x="709" y="641" name="top_2"/>
+	<anchor x="319" y="483" name="top_3"/>
+	<anchor x="317" y="460" name="topdiacritic"/>
+	<outline>
+		<contour>
+			<point x="900" y="100" type="curve"/>
+			<point x="900" y="0" type="line"/>
+			<point x="1086" y="0"/>
+			<point x="1164" y="113"/>
+			<point x="1182" y="266" type="curve" smooth="yes"/>
+			<point x="1193" y="361"/>
+			<point x="1209" y="536"/>
+			<point x="1198" y="731" type="curve"/>
+			<point x="930" y="680" type="line"/>
+			<point x="960" y="536"/>
+			<point x="974" y="395"/>
+			<point x="980" y="272" type="curve" smooth="yes"/>
+			<point x="985" y="175"/>
+			<point x="971" y="100"/>
+		</contour>
+		<contour>
+			<point x="164" y="20" type="curve" smooth="yes"/>
+			<point x="286" y="20"/>
+			<point x="375" y="141"/>
+			<point x="375" y="268" type="curve"/>
+			<point x="283" y="255" type="line"/>
+			<point x="283" y="219"/>
+			<point x="258" y="199"/>
+			<point x="232" y="199" type="curve" smooth="yes"/>
+			<point x="214" y="199"/>
+			<point x="198" y="211"/>
+			<point x="198" y="237" type="curve" smooth="yes"/>
+			<point x="198" y="276"/>
+			<point x="248" y="326"/>
+			<point x="371" y="351" type="curve"/>
+			<point x="395" y="421" type="line"/>
+			<point x="237" y="411"/>
+			<point x="30" y="340"/>
+			<point x="30" y="159" type="curve" smooth="yes"/>
+			<point x="30" y="58"/>
+			<point x="111" y="20"/>
+		</contour>
+		<contour>
+			<point x="560" y="0" type="curve"/>
+			<point x="580" y="50" type="line"/>
+			<point x="560" y="100" type="line"/>
+			<point x="504" y="100"/>
+			<point x="485" y="160"/>
+			<point x="489" y="237" type="curve" smooth="yes"/>
+			<point x="493" y="316"/>
+			<point x="505" y="375"/>
+			<point x="520" y="450" type="curve"/>
+			<point x="297" y="432" type="line"/>
+			<point x="288" y="370"/>
+			<point x="283" y="305"/>
+			<point x="283" y="255" type="curve" smooth="yes"/>
+			<point x="283" y="90"/>
+			<point x="344" y="0"/>
+		</contour>
+		<contour>
+			<point x="900" y="0" type="curve"/>
+			<point x="920" y="50" type="line"/>
+			<point x="900" y="100" type="line"/>
+			<point x="850" y="100"/>
+			<point x="820" y="127"/>
+			<point x="834" y="247" type="curve"/>
+			<point x="715" y="216" type="line"/>
+			<point x="696" y="92"/>
+			<point x="788" y="0"/>
+		</contour>
+		<contour>
+			<point x="560" y="100" type="curve"/>
+			<point x="560" y="0" type="line"/>
+			<point x="696" y="0"/>
+			<point x="750" y="63"/>
+			<point x="790" y="150" type="curve"/>
+			<point x="834" y="247" type="line"/>
+			<point x="844" y="404"/>
+			<point x="848" y="447"/>
+			<point x="845" y="602" type="curve"/>
+			<point x="587" y="551" type="line"/>
+			<point x="613" y="446"/>
+			<point x="625" y="395"/>
+			<point x="640" y="272" type="curve" smooth="yes"/>
+			<point x="652" y="173"/>
+			<point x="621" y="100"/>
+		</contour>
+		<component base="uni06510670" xOffset="655" yOffset="22"/>
+		<component base="uni0627" xOffset="1238"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>5</integer>
+					<key>name</key>
+					<string>uni06510670</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>heh-ar.fina</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>alef-ar</string>
+		</dict>
+	</lib>
+</glyph>

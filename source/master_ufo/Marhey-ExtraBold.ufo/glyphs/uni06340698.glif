@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06340698" format="2">
+	<advance width="1290"/>
+	<anchor x="839" y="-94" name="bottom_1"/>
+	<anchor x="235" y="-540" name="bottom_2"/>
+	<anchor x="435" y="0" name="caret_1"/>
+	<anchor x="804" y="724" name="top_1"/>
+	<anchor x="202" y="686" name="top_2"/>
+	<outline>
+		<component base="uni06340631"/>
+		<component base="threedotsupabove-ar" xOffset="159" yOffset="-219"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>threedotsupabove-ar</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>jeh-ar.fina</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>sheen-ar.init</string>
+		</dict>
+	</lib>
+</glyph>

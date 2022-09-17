@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni062E" format="2">
+	<advance width="640"/>
+	<unicode hex="062E"/>
+	<anchor x="361" y="-471" name="bottom"/>
+	<anchor x="356" y="624" name="top"/>
+	<outline>
+		<component base="uni062D"/>
+		<component base="dotabove-ar" xOffset="303" yOffset="-234"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>dotabove-ar</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

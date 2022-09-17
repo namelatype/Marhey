@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06390632" format="2">
+	<advance width="780"/>
+	<anchor x="547" y="-110" name="bottom_1"/>
+	<anchor x="192" y="-540" name="bottom_2"/>
+	<anchor x="321" y="0" name="caret_1"/>
+	<anchor x="553" y="581" name="top_1"/>
+	<anchor x="142" y="450" name="top_2"/>
+	<outline>
+		<component base="uni06390631"/>
+		<component base="dotabove-ar" xOffset="113" yOffset="-524"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>dotabove-ar</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>ain-ar.init</string>
+		</dict>
+	</lib>
+</glyph>

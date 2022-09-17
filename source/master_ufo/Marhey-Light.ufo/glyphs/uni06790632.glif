@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06790632" format="2">
+	<advance width="600"/>
+	<anchor x="452" y="-86" name="bottom_1"/>
+	<anchor x="137" y="-480" name="bottom_2"/>
+	<anchor x="293" y="0" name="caret_1"/>
+	<anchor x="442" y="764" name="top_1"/>
+	<anchor x="137" y="400" name="top_2"/>
+	<outline>
+		<component base="uni06790631"/>
+		<component base="dotabove-ar" xOffset="99" yOffset="-560"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>dotabove-ar</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>zain-ar.fina</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>tteh-ar.init</string>
+		</dict>
+	</lib>
+</glyph>

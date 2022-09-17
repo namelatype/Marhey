@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06A9.init.calt" format="2">
+	<advance width="360"/>
+	<anchor x="111" y="-100" name="bottom"/>
+	<anchor x="115" y="800" name="top"/>
+	<outline>
+		<component base="uni0643.init.calt"/>
+	</outline>
+</glyph>

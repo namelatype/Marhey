@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06330626.fina" format="2">
+	<advance width="1549"/>
+	<anchor x="1077" y="-106" name="bottom_1"/>
+	<anchor x="431" y="-383" name="bottom_2"/>
+	<anchor x="645" y="0" name="caret_1"/>
+	<anchor x="1091" y="539" name="top_1"/>
+	<anchor x="213" y="450" name="top_2"/>
+	<outline>
+		<component base="uni06330649.fina"/>
+		<component base="uni0654" xOffset="104" yOffset="-466"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>yehHamzaabove-ar.fina</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>seen-ar.medi</string>
+			<key>public.markColor</key>
+			<string>0.25,0.25,0.25,1</string>
+		</dict>
+	</lib>
+</glyph>

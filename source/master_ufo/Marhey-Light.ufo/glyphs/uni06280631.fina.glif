@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06280631.fina" format="2">
+	<advance width="640"/>
+	<anchor x="481" y="-230" name="bottom_1"/>
+	<anchor x="137" y="-450" name="bottom_2"/>
+	<anchor x="293" y="0" name="caret_1"/>
+	<anchor x="482" y="531" name="top_1"/>
+	<anchor x="137" y="400" name="top_2"/>
+	<outline>
+		<component base="uni066E0631.fina"/>
+		<component base="dotbelow-ar" xOffset="426" yOffset="-29"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>Auto</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>Auto</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>
