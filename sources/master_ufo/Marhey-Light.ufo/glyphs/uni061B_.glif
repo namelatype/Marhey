@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni061B" format="2">
-	<advance width="300"/>
-	<unicode hex="061B"/>
-	<outline>
-		<component base="uni060C" yOffset="251"/>
-		<component base="period.salt" xOffset="6"/>
-	</outline>
-</glyph>
