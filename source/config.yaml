@@ -11,12 +11,12 @@ stat:
     - name: Light
       value: 300
     - name: Regular
-      value: 425
-      linkedValue: 675
+      value: 400
+      linkedValue: 700
       flags: 2
     - name: SemiBold
-      value: 550
+      value: 600
     - name: Bold
-      value: 675
+      value: 700
     - name: ExtraBold
       value: 800
