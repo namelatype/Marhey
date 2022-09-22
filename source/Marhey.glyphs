@@ -94366,16 +94366,6 @@ axesValues = (
 instanceInterpolations = {
 m002 = 1;
 };
-name = "[wght]";
-type = variable;
-},
-{
-axesValues = (
-300
-);
-instanceInterpolations = {
-m002 = 1;
-};
 name = Light;
 properties = (
 {
