@@ -1293,11 +1293,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1100;
+value = 1102;
 },
 {
 name = winDescent;
-value = -640;
+value = 700;
 }
 );
 iconName = Light;
@@ -1373,11 +1373,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1100;
+value = 1102;
 },
 {
 name = winDescent;
-value = -640;
+value = 700;
 }
 );
 iconName = Bold;
