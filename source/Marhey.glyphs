@@ -80475,6 +80475,21 @@ width = 220;
 unicode = 32;
 },
 {
+glyphname = nbspace;
+lastChange = "2022-09-22 14:32:58 +0000";
+layers = (
+{
+layerId = m002;
+width = 220;
+},
+{
+layerId = m003;
+width = 220;
+}
+);
+unicode = 160;
+},
+{
 glyphname = "fullstop-ar";
 lastChange = "2022-08-23 06:31:59 +0000";
 layers = (
