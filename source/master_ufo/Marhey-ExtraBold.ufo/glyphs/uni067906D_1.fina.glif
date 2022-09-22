@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni067906D1.fina" format="2">
+	<advance width="1050"/>
+	<anchor x="886" y="-100" name="bottom_1"/>
+	<anchor x="426" y="-680" name="bottom_2"/>
+	<anchor x="690" y="0" name="caret_1"/>
+	<anchor x="768" y="717" name="top_1"/>
+	<anchor x="231" y="400" name="top_2"/>
+	<outline>
+		<component base="uni067906CC.fina"/>
+		<component base="threedotsdownbelow-ar" xOffset="364" yOffset="-335"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>threedotsdownbelow-ar</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>yehThreedotsbelow-ar.fina</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>tteh-ar.medi</string>
+		</dict>
+	</lib>
+</glyph>

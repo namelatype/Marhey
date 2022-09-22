@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni069C0691.fina" format="2">
+	<advance width="1310"/>
+	<anchor x="856" y="-389" name="bottom_1"/>
+	<anchor x="235" y="-540" name="bottom_2"/>
+	<anchor x="435" y="0" name="caret_1"/>
+	<anchor x="804" y="724" name="top_1"/>
+	<anchor x="165" y="630" name="top_2"/>
+	<outline>
+		<component base="uni069C0631.fina"/>
+		<component base="uni0615" xOffset="168" yOffset="-291"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>uni0615</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>rreh-ar.fina</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>sheenThreedotsbelow-ar.medi</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni069C.fina" format="2">
+	<advance width="1270"/>
+	<anchor x="864" y="-337" name="bottom"/>
+	<anchor x="787" y="703" name="top"/>
+	<outline>
+		<component base="uni0634.fina"/>
+		<component base="threedotsdownbelow-ar" xOffset="786" yOffset="-50"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>threedotsdownbelow-ar</string>
+				</dict>
+			</array>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

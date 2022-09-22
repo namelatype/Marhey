@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni063A0631" format="2">
+	<advance width="749"/>
+	<anchor x="513" y="-100" name="bottom_1"/>
+	<anchor x="137" y="-480" name="bottom_2"/>
+	<anchor x="296" y="0" name="caret_1"/>
+	<anchor x="500" y="709" name="top_1"/>
+	<anchor x="117" y="450" name="top_2"/>
+	<outline>
+		<component base="uni06390631"/>
+		<component base="dotabove-ar" xOffset="458" yOffset="-149"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>reh-ar.fina</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>ain-ar.init</string>
+		</dict>
+	</lib>
+</glyph>

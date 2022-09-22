@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06A90649.fina" format="2">
+	<advance width="830"/>
+	<anchor x="743" y="-300" name="bottom_1"/>
+	<anchor x="410" y="-387" name="bottom_2"/>
+	<anchor x="521" y="0" name="caret_1"/>
+	<anchor x="580" y="750" name="top_1"/>
+	<anchor x="247" y="400" name="top_2"/>
+	<outline>
+		<component base="uni06430649.fina"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>keheh-ar.medi</string>
+			<key>public.markColor</key>
+			<string>0.75,0.75,0.75,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06330695" format="2">
+	<advance width="1168"/>
+	<anchor x="787" y="-86" name="bottom_1"/>
+	<anchor x="124" y="-658" name="bottom_2"/>
+	<anchor x="417" y="0" name="caret_1"/>
+	<anchor x="787" y="531" name="top_1"/>
+	<anchor x="187" y="400" name="top_2"/>
+	<outline>
+		<component base="uni06330631"/>
+		<component base="caron.ar" xOffset="-74" yOffset="-1179"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>caron.ar</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>rehVbelow-ar.fina</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>seen-ar.init</string>
+		</dict>
+	</lib>
+</glyph>

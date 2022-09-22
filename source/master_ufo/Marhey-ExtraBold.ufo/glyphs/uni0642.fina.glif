@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0642.fina" format="2">
+	<advance width="870"/>
+	<anchor x="588" y="-299" name="bottom"/>
+	<anchor x="562" y="668" name="top"/>
+	<outline>
+		<component base="uni066F.fina"/>
+		<component base="twodotshorizontalabove-ar" xOffset="524" yOffset="-211"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>twodotshorizontalabove-ar</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

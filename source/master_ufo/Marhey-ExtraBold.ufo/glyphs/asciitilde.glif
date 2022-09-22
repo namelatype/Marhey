@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciitilde" format="2">
+	<advance width="587"/>
+	<unicode hex="007E"/>
+	<outline>
+		<contour>
+			<point x="27" y="286" type="curve"/>
+			<point x="194" y="276" type="line"/>
+			<point x="192" y="350"/>
+			<point x="208" y="377"/>
+			<point x="228" y="377" type="curve" smooth="yes"/>
+			<point x="290" y="377"/>
+			<point x="316" y="276"/>
+			<point x="413" y="276" type="curve" smooth="yes"/>
+			<point x="464" y="276"/>
+			<point x="560" y="325"/>
+			<point x="560" y="451" type="curve"/>
+			<point x="403" y="461" type="line"/>
+			<point x="406" y="397"/>
+			<point x="389" y="370"/>
+			<point x="369" y="370" type="curve" smooth="yes"/>
+			<point x="335" y="370"/>
+			<point x="270" y="461"/>
+			<point x="174" y="461" type="curve" smooth="yes"/>
+			<point x="110" y="461"/>
+			<point x="27" y="412"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>RMXScaler</key>
+			<dict>
+				<key>height</key>
+				<integer>200</integer>
+				<key>weight</key>
+				<integer>500</integer>
+				<key>width</key>
+				<integer>200</integer>
+			</dict>
+			<key>com.schriftgestaltung.glyph.userData</key>
+			<dict>
+				<key>RMXScaler</key>
+				<dict>
+					<key>source</key>
+					<string>tilde</string>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

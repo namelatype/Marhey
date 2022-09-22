@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni062D0649.fina" format="2">
+	<advance width="970"/>
+	<anchor x="788" y="-228" name="bottom_1"/>
+	<anchor x="416" y="-377" name="bottom_2"/>
+	<anchor x="445" y="0" name="caret_1"/>
+	<anchor x="658" y="519" name="top_1"/>
+	<anchor x="201" y="400" name="top_2"/>
+	<outline>
+		<contour>
+			<point x="970" y="0" type="curve"/>
+			<point x="990" y="50" type="line"/>
+			<point x="970" y="100" type="line"/>
+			<point x="907" y="100"/>
+			<point x="857" y="119"/>
+			<point x="857" y="202" type="curve"/>
+			<point x="735" y="202" type="line"/>
+			<point x="736" y="68"/>
+			<point x="839" y="0"/>
+		</contour>
+		<component base="uni062D0649"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>alefMaksura-ar</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>hah-ar.medi</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

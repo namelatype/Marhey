@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06CC0631" format="2">
+	<advance width="728"/>
+	<anchor x="510" y="-268" name="bottom_1"/>
+	<anchor x="192" y="-540" name="bottom_2"/>
+	<anchor x="381" y="0" name="caret_1"/>
+	<anchor x="534" y="550" name="top_1"/>
+	<anchor x="192" y="400" name="top_2"/>
+	<outline>
+		<component base="uni064A0631"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>reh-ar.fina</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>yehFarsi-ar.init</string>
+		</dict>
+	</lib>
+</glyph>

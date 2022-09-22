@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06860649.fina" format="2">
+	<advance width="900"/>
+	<anchor x="766" y="-480" name="bottom_1"/>
+	<anchor x="416" y="-377" name="bottom_2"/>
+	<anchor x="618" y="0" name="caret_1"/>
+	<anchor x="683" y="548" name="top_1"/>
+	<anchor x="201" y="400" name="top_2"/>
+	<outline>
+		<component base="uni062D0649.fina"/>
+		<component base="threedotsdownbelow-ar" xOffset="705" yOffset="-184"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>alefMaksura-ar.fina</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>tcheh-ar.medi</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

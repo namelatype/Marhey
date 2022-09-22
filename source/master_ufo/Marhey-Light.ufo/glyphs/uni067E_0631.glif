@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni067E0631" format="2">
+	<advance width="600"/>
+	<anchor x="429" y="-323" name="bottom_1"/>
+	<anchor x="137" y="-480" name="bottom_2"/>
+	<anchor x="293" y="0" name="caret_1"/>
+	<anchor x="452" y="531" name="top_1"/>
+	<anchor x="137" y="400" name="top_2"/>
+	<outline>
+		<component base="uni066E0631"/>
+		<component base="threedotsdownbelow-ar" xOffset="368" yOffset="-27"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>threedotsdownbelow-ar</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>reh-ar.fina</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>peh-ar.init</string>
+		</dict>
+	</lib>
+</glyph>

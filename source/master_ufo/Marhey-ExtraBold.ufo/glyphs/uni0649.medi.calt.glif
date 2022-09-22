@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0649.medi.calt" format="2">
+	<advance width="380"/>
+	<anchor x="175" y="-75" name="bottom"/>
+	<anchor x="186" y="400" name="top"/>
+	<outline>
+		<component base="uni066E.medi.calt"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.25,0.25,0.25,1</string>
+		</dict>
+	</lib>
+</glyph>
