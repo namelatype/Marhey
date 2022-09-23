@@ -1293,11 +1293,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1100;
+value = 1102;
 },
 {
 name = winDescent;
-value = -640;
+value = 700;
 }
 );
 iconName = Light;
@@ -1373,11 +1373,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1100;
+value = 1102;
 },
 {
 name = winDescent;
-value = -640;
+value = 700;
 }
 );
 iconName = Bold;
@@ -80475,6 +80475,21 @@ width = 220;
 unicode = 32;
 },
 {
+glyphname = nbspace;
+lastChange = "2022-09-22 14:32:58 +0000";
+layers = (
+{
+layerId = m002;
+width = 220;
+},
+{
+layerId = m003;
+width = 220;
+}
+);
+unicode = 160;
+},
+{
 glyphname = "fullstop-ar";
 lastChange = "2022-08-23 06:31:59 +0000";
 layers = (
@@ -94359,16 +94374,6 @@ width = 300;
 }
 );
 instances = (
-{
-axesValues = (
-300
-);
-instanceInterpolations = {
-m002 = 1;
-};
-name = "[wght]";
-type = variable;
-},
 {
 axesValues = (
 300
