@@ -1,8 +1,7 @@
 # Marhey
 
-Marhey is a playful handwriting Arabic and Latin typeface family, designed by Nur Syamsi (Arabic) and Bustanul Arifin (Latin).
-Marhey was built as a Display typeface with medium contrast, Combining of bold and thick strokes makes dynamic and expressive impression. 
-The Arabic form of Marhey is refers to Naskhi style, spans five weights (Light, Regular, SemiBold, Bold and ExtraBold).
+Marhey is a playful Display typeface, custom hand lettering with contrast strokes makes dynamic and expressive impression.
+It comes with Latin Character sets including Western, Central, and Arabic language support (Kurdish, Persian, Urdu and Jawi).
  
 To contribute, see [https://github.com/namelatype/Marhey](https://github.com/namelatype/Marhey)
 
