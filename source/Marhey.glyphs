@@ -1247,7 +1247,6 @@ sub alef-ar.fina by alef-ar.fina.salt;
 sub heh-ar.medi by heh-ar.medi.salt;
 sub hehDoachashmee-ar.fina by hehDoachashmee-ar.fina.salt;
 sub alefMaksura-ar.fina by alefMaksura-ar.fina.salt;
-sub asterisk-ar by asterisk-ar.salt;
 sub period by period.salt;
 ";
 tag = salt;
