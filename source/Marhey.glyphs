@@ -55,6 +55,10 @@ value = (
 {
 name = "Use Line Breaks";
 value = 1;
+},
+{
+name = "Variable Font Origin";
+value = m002;
 }
 );
 date = "2022-06-21 02:34:04 +0000";
