@@ -94908,26 +94908,6 @@ instanceInterpolations = {
 m002 = 1;
 };
 name = Light;
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = Marhey;
-}
-);
-},
-{
-key = preferredFamilyNames;
-values = (
-{
-language = dflt;
-value = Marhey;
-}
-);
-}
-);
 weightClass = 300;
 },
 {
@@ -94939,26 +94919,6 @@ m002 = 0.75;
 m003 = 0.25;
 };
 name = Regular;
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = Marhey;
-}
-);
-},
-{
-key = preferredFamilyNames;
-values = (
-{
-language = dflt;
-value = Marhey;
-}
-);
-}
-);
 },
 {
 axesValues = (
@@ -94969,26 +94929,6 @@ m002 = 0.5;
 m003 = 0.5;
 };
 name = SemiBold;
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = Marhey;
-}
-);
-},
-{
-key = preferredFamilyNames;
-values = (
-{
-language = dflt;
-value = Marhey;
-}
-);
-}
-);
 weightClass = 600;
 },
 {
@@ -95002,26 +94942,6 @@ m003 = 0.75;
 isBold = 1;
 linkStyle = Regular;
 name = Bold;
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = Marhey;
-}
-);
-},
-{
-key = preferredFamilyNames;
-values = (
-{
-language = dflt;
-value = Marhey;
-}
-);
-}
-);
 weightClass = 700;
 },
 {
@@ -95032,26 +94952,6 @@ instanceInterpolations = {
 m003 = 1;
 };
 name = ExtraBold;
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = Marhey;
-}
-);
-},
-{
-key = preferredFamilyNames;
-values = (
-{
-language = dflt;
-value = Marhey;
-}
-);
-}
-);
 weightClass = 800;
 }
 );
