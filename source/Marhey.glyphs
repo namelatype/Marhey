@@ -1347,7 +1347,7 @@ GSCornerRadius = 25;
 },
 {
 axesValues = (
-800
+700
 );
 customParameters = (
 {
@@ -1420,7 +1420,7 @@ pos = 750;
 pos = 400;
 }
 );
-name = ExtraBold;
+name = Bold;
 userData = {
 GSCornerRadius = 40;
 };
@@ -94919,8 +94919,8 @@ axesValues = (
 400
 );
 instanceInterpolations = {
-m002 = 0.8;
-m003 = 0.2;
+m002 = 0.75;
+m003 = 0.25;
 };
 name = Regular;
 },
@@ -94929,8 +94929,8 @@ axesValues = (
 500
 );
 instanceInterpolations = {
-m002 = 0.6;
-m003 = 0.4;
+m002 = 0.5;
+m003 = 0.5;
 };
 name = Medium;
 weightClass = 500;
@@ -94940,8 +94940,8 @@ axesValues = (
 600
 );
 instanceInterpolations = {
-m002 = 0.4;
-m003 = 0.6;
+m002 = 0.25;
+m003 = 0.75;
 };
 name = SemiBold;
 weightClass = 600;
@@ -94951,8 +94951,7 @@ axesValues = (
 700
 );
 instanceInterpolations = {
-m002 = 0.2;
-m003 = 0.8;
+m003 = 1;
 };
 isBold = 1;
 linkStyle = Regular;
