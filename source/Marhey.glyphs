@@ -94916,47 +94916,48 @@ weightClass = 300;
 },
 {
 axesValues = (
-425
+400
 );
 instanceInterpolations = {
-m002 = 0.75;
-m003 = 0.25;
+m002 = 0.8;
+m003 = 0.2;
 };
 name = Regular;
 },
 {
 axesValues = (
-550
+500
 );
 instanceInterpolations = {
-m002 = 0.5;
-m003 = 0.5;
+m002 = 0.6;
+m003 = 0.4;
+};
+name = Medium;
+weightClass = 500;
+},
+{
+axesValues = (
+600
+);
+instanceInterpolations = {
+m002 = 0.4;
+m003 = 0.6;
 };
 name = SemiBold;
 weightClass = 600;
 },
 {
 axesValues = (
-675
+700
 );
 instanceInterpolations = {
-m002 = 0.25;
-m003 = 0.75;
+m002 = 0.2;
+m003 = 0.8;
 };
 isBold = 1;
 linkStyle = Regular;
 name = Bold;
 weightClass = 700;
-},
-{
-axesValues = (
-800
-);
-instanceInterpolations = {
-m003 = 1;
-};
-name = ExtraBold;
-weightClass = 800;
 }
 );
 kerningLTR = {
